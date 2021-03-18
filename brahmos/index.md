@@ -9,12 +9,13 @@ From terminal the format for the same is
 If things goes well it will connect to the user node and will print the dialouge box
 
 ##############################################################################################
-\#                                    Welcome to PARAM-Brahma                               \#
-\#                           All connections are monitored and recorded                     \#
-\#                    Disconnect IMMEDIATELY if you are not an authorized user!             \#
+#                                    Welcome to PARAM-Brahma                                #
+#                           All connections are monitored and recorded                      #
+#                    Disconnect IMMEDIATELY if you are not an authorized user!              #
 ##############################################################################################
 
 >> Enter all the credentials. 
+
 Note: Captchas are Case Sensitive.
 
 You will be in the home directory of your account. It is instructable to create your own folder in case you are using a shared account, 
