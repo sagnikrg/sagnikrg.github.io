@@ -9,11 +9,9 @@ From terminal the format for the same is
 If things goes well it will connect to the user node and will print the dialouge box
 
 ##################################################################
-                
                     Welcome to PARAM-Brahma                                 
           All connections are monitored and recorded                       
-    Disconnect IMMEDIATELY if you are not an authorized user!                
-
+    Disconnect IMMEDIATELY if you are not an authorized user!        
 ##################################################################
 
 
