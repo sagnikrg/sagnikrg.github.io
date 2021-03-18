@@ -8,11 +8,11 @@ From terminal the format for the same is
 
 If things goes well it will connect to the user node and will print the dialouge box
 
-#########################################################################
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Welcome to PARAM-Brahma                                
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   All connections are monitored and recorded           .           
+######################################################################
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Welcome to PARAM-Brahma                                
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   All connections are monitored and recorded           .           
 &emsp;&emsp;&emsp;&emsp;    Disconnect IMMEDIATELY if you are not an authorized user!  .     
-##########################################################################
+######################################################################
 
 
 >> Enter all the credentials. 
