@@ -8,7 +8,7 @@ From terminal the format for the same is:
 If things goes well it will connect to the user node and will print the dialouge box
 
 #####################################################
-.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Welcome to PARAM-Brahma                                
+ <br /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Welcome to PARAM-Brahma                                
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   All connections are monitored and recorded                      
 &emsp;&emsp;&emsp;&emsp;    Disconnect IMMEDIATELY if you are not an authorized user!       
 #####################################################
@@ -23,4 +23,4 @@ You will be in the home directory of your account. It is instructable to create 
 The ususal codes for terminal works. You can use "mkdir" to create directory, "ls" to show files in current directory etc.
 
 For such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
-(That's where I learnt things from!)
+ <br /> (That's where I learnt things from!)
