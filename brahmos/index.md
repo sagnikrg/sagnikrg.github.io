@@ -3,7 +3,7 @@ This file talks about the details about how to use our in house supercomputer.
 Firstly to connect to the supercomputer server you have to use ssh. 
 From terminal the format for the same is:
 
->> ssh your_account@ip_addresss
+> ssh your_account@ip_addresss
 
 If things goes well it will connect to the user node and will print the dialouge box
 
