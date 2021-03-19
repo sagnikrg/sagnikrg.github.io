@@ -13,7 +13,7 @@ If things goes well it will connect to the user node and will print the dialouge
 &emsp;&emsp;&emsp;&emsp;    Disconnect IMMEDIATELY if you are not an authorized user!       
 #####################################################
 
-> Enter all the credentials. 
+> Enter all the relevant credentials. 
 
 Note: Captchas are Case Sensitive.
 
