@@ -1,5 +1,6 @@
 ### Academic Subpage of
 # Sagnik Ghosh
+
 ### BSMS Student at [IISER Pune](http://iiserpune.ac.in)
 
 Currently I am busy doing my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai.
