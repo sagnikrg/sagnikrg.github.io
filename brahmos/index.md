@@ -1,3 +1,6 @@
+### An working manual for
+##  Param-Brahma
+
 This file talks about the details about how to use our in house supercomputer.
 
 Firstly to connect to the supercomputer server you have to use ssh. 
