@@ -1,4 +1,4 @@
-### Personal Webpage of
+### Academic Subpage of
 ## Sagnik Ghosh
 ### BSMS Student at [IISER Pune](http://iiserpune.ac.in)
 
