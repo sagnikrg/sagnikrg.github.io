@@ -11,4 +11,4 @@ I mainly work in Condendesed Matter Physics, Quantum Information and Field Theor
 You can have a look at my detailed Project Report at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation, [here](https://sagnikiiser.github.io/NIUS/NIUS_thesis.pdf).
 
 Recently, I have created a manual full with working knowledge of our in-house Supercomputer, Param-Brahma, which I am still updating.
-<br/> [https://sagnikiiser.github.io/brahmos/](https://sagnikiiser.github.io/brahmos/)
+<br/> [https://sagnikiiser.github.io/brahmos/](https://sagnikiiser.github.io/brahmos/).
