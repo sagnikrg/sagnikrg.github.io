@@ -1,0 +1,75 @@
+%Template for generating the MS Project Proposal
+% run using "pdflatex filename.tex" to generate a pdf file for submission
+
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=25mm]{geometry}
+
+\usepackage{lipsum}
+\newcommand\dunderline[3][-1pt]{{%
+  \setbox0=\hbox{#3}
+  \ooalign{\copy0\cr\rule[\dimexpr#1-#2\relax]{\wd0}{#2}}}}
+\usepackage{graphicx}
+\renewcommand{\familydefault}{\sfdefault}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}
+\renewcommand{\baselinestretch}{0.85}
+
+\usepackage[style=nature]{biblatex}
+\addbibresource{proposal.bib}
+
+\begin{document}
+
+\vspace*{-25mm}
+\hspace*{-20mm}
+
+\includegraphics{internal-lhead.png}
+
+\begin{center}
+{\bfseries\large MS Project Proposal}
+\end{center}
+
+\begin{tabbing}
+xxxxxxxxxxxxxxxxxxxxx\=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\=xxxxxxxxxxxxx\=xxxxxxxxxxxxxxxxx\= \kill
+\\
+\emph{Name of the Student:} \> \dunderline{1pt}{\rule{2.0cm}{0pt}Sagnik Ghosh\rule{2.1cm}{0pt}} \>
+\emph{Roll Number:} \> \dunderline{1pt}{\rule{1.2cm}{0pt}20161007\rule{1.3cm}{0pt}}  
+\end{tabbing}
+
+\subsubsection*{Tentative title of the Project:} 
+Phonon-Electron Equilibriation: A Keldysh Field Theoretic Study
+
+\subsubsection*{Brief description of the proposed work: (200--400 words)}
+ 
+The equilibration of hot electrons , excited to a high energy state either by external electromagnetic waves or by collision with high energy particles, is relevant to a large class of problems, from pump-probe spectroscopy to stability of solid state transistors to response of photodetectors  to operation of thermoelectric devices. One of the main dissipation mechanism for hot electrons is to transfer the energy to phonons through electron phonon interactions . In this project, we will study the equilibration process of a coupled electron phonon system where some electrons are initially excited to high energy states.
+
+While the “hot electron” problem has been studied in quite some detail, most calculations treat the phonons as a thermal bath whose density matrix (or distribution functions) remain invariant with time \cite{saavedra2016hot}. In this project, we will consider the self-consistent time evolution of the coupled system using Schwinger-Keldysh field theory \cite{keldysh1965diagram,kamenev2011field}. In fact, one of our key motivation is to study the time evolution of the phonons and their equilibration properties. The equilibration of optical phonons in Iron based superconductors have been studied recently using pump-probe  and time resolved X-Ray techniques\cite{mansart2010ultrafast}. Instead of a single massive mode, here we are interested in the many body dynamics of the longitudinal phonons.
+
+The equilibration of phonons is of great importance in constructing low temperature efficient  bolometric particle detectors. Here the high energy particle creates the hot electrons, which subsequently transfer their energy to the phonons. The rise in specific heat of the phonons ( assumed to be \textasciitilde $T^3$ ) is used to measure the energy of the particle. In this context, some key questions are: (a) How much energy is transferred to the phonons for a given excitation energy? (determines calibration) (b) How long does it take for the phonons to equilibriate (determines off-time of detectors)? (c) Do the long wavelength modes (which give rise to the $T^3$ law) equilibriate  as a Markovian process with a scale, or does the equilibriation follow a quintessentially non-Markovian power law behaviour\cite{chakraborty2018power}? 
+
+In this thesis, we will try to answer these questions using a non-equilibrium field theory based approach.
+
+
+\printbibliography
+
+
+
+
+\begin{tabbing}
+xxxxxxxxxxxxxxx\=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx\=xxxxxxxxxxxxxxxxxxxxxxxxxxxx\kill
+\\
+\>\includegraphics[width=4.3cm]{sign.png}\>\includegraphics[width=4.3cm]{sign.png}\>\includegraphics[width=4.3cm]{sign.png}\\
+{\bfseries Signature of}  \> \rule{4.3cm}{1pt} \> \rule{4.3cm}{1pt}\>\rule{4.3cm}{1pt} \\
+\> {\small Supervisor: } \>	{\small Co-Supervisor:} \> {\small Expert/TAC Member:} \\
+\> {\small Dr. Rajdeep Sensarma,} \>	{\small Dr. Sreejith GJ,} \> {\small Dr. Bijay Kumar Agarwalla,} \\
+\> {\small TIFR, Mumbai} \>	{\small IISER Pune} \> {\small IISER Pune} \\
+\> \emph{(At least one of the above must be from IISER Pune)}
+\end{tabbing}
+
+\end{document}
+
+
+\begin{tabbing}
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\=\=xxxxxxxxxxxxxxxxxxxxxxxx\=xxxxxxxxxxxxxxxxxxxxxxxx\= \kill
+\\[8mm]
+Signature of Departmental Member \> \rule{4cm}{1pt}\>Date of submission \> \rule{4cm}{1pt}\\
+\end{tabbing}
