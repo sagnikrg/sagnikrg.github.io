@@ -11,12 +11,15 @@ I mainly work in Condendesed Matter Physics, Quantum Information and Field Theor
 
 You can have a look at my detailed Project Report at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation, [here](https://sagnikiiser.github.io/NIUS/NIUS_thesis.pdf).
 
-MS Thesis Proposal:
+**MS Thesis Proposal:**
 The usual tex file provided (at least at our time) suffered from various allignment and bibliography issues which forced many to choose the .txt alternative. I had attempted to fix these during the Lockdown 2020, added features for underlining, biblatex compatibility and fixed (many) alignment issues more faithfully reproducing its .txt analogue. 
 
 Albeit being simple tweaks, several of my batchmates had found this template useful, so I am making it publicly available here.
 
 Here is a [sample output](https://sagnikiiser.github.io/MS%20Thesis%20Proposal/MS_Thesis_Proposal.pdf).
+The Body of the sample text is an exerpt from the Liner Notes to _Final Report (1999)_, an album by _Do Not Erase_, the only rock band ever formed at the Institute for Advanced Study.
+
+
 
 Editable Latex Template as zip file is available here: [MS_Thesis_Proposal.zip](https://github.com/SagnikIISER/sagnikiiser.github.io/blob/main/MS%20Thesis%20Proposal/MS%20Thesis%20Proposal.zip) 
 
