@@ -2,7 +2,7 @@
 
 
 ### Academic Subpage of
-# Sagnik Ghosh
+## Sagnik Ghosh
 
 ### BSMS Student at [IISER Pune](http://iiserpune.ac.in)
 
