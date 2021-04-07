@@ -17,7 +17,7 @@ The usual tex file provided (at least at our time) suffered from various allignm
 Albeit being simple tweaks, several of my batchmates had found this template useful, so I am making it publicly available.
 
 Here is a [sample output](https://sagnikiiser.github.io/MS%20Thesis%20Proposal/MS_Thesis_Proposal.pdf).
-The Body of the sample text is an exerpt from the Liner Notes to [_Final Report (1999)_](http://www.math.utah.edu/~ptrapa/finalreport/CD.html), an album by _Do Not Erase_, the only rock band ever formed at the Institute for Advanced Study.
+The Body of the sample text is an exerpt from the Liner Notes to [_Final Report (1999)_](http://www.math.utah.edu/~ptrapa/finalreport/CD.html), an album by _Do Not Erase_, the only rock band ever formed at the Institute for Advanced Study, Princeton.
 
 If you wish to fit in more text, change the classfile from _article_ to _amsart_.
 
