@@ -1,4 +1,4 @@
-![Guernica.jpg]
+![Thumbnail](Guernica.jpg)
 
 
 ### Academic Subpage of
