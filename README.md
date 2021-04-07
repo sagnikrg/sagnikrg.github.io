@@ -1,6 +1,5 @@
 ![Thumbnail](Guernica.jpg)
 
-
 ### Academic Subpage of
 ## Sagnik Ghosh
 
