@@ -1,5 +1,4 @@
-![https://wallpapercave.com/wp/wp1887615.jpg]
-
+![Guernica.jpg]
 
 ### Academic Subpage of
 # Sagnik Ghosh
