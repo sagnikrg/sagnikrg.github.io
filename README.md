@@ -25,7 +25,7 @@ If you wish to fit in more text, change the classfile from _article_ to _amsart_
 
 Editable Latex Template as zip file: [MS_Thesis_Proposal.zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SagnikIISER/sagnikiiser.github.io/blob/main/MS%20Thesis%20Proposal/MS%20Thesis%20Proposal.zip) 
 
-
+**Manual for Supercomputer:**
 Recently, I have been creating a manual to collate working knowledge of our in-house Supercomputer, Param-Brahma, which is usually passed on from generations to generations of students.
 <br/> [https://sagnikiiser.github.io/brahmos/](https://sagnikiiser.github.io/brahmos/)
 
