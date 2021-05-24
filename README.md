@@ -47,5 +47,5 @@ I have created a channel in Telegram (using IFTTT) to ease the same by streamlin
 Public Link:  
 
 
-<img src="AIR_Raagam.jpg" width="350" height="350">
+<img src="AIR_Raagam.jpg" width="250" height="250">
  
