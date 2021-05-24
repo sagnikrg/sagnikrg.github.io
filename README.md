@@ -44,8 +44,9 @@ One of the best ways to use it is using Jupyter Notebooks. There are plenty of w
  as a Youtube  Live. As much excited as we were, the daily schedule were nowhere to be found easily.
 
 I have created a channel in Telegram (using IFTTT) to ease the same by streamlinig any updates regarding Daily Schedule, Features etc at live time.
-Public Link:  
+
+Public Link:[https://t.me/AIRRaagam](https://t.me/AIRRaagam)  
 
 
-<img src="AIR_Raagam.jpg" width="250" height="250">
+<img src="AIR_Raagam.jpg" width="240" height="240">
  
