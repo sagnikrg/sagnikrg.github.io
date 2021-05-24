@@ -41,9 +41,10 @@ One of the best ways to use it is using Jupyter Notebooks. There are plenty of w
 
 
 **AIR Raagam Schedule:** During the lockdown due to COVID-19 second phase we figured out that Akashvani (All India Radio) has started featuring Raagam
- as a Youtube  Live. As much excited as we were, the daily schedule were nowhere to be found easily except for twitter.
+ as a Youtube  Live. As much excited as we were, the daily schedule were nowhere to be found easily.
 
-I have created this telegram bot using IFTTT to ease the same by streamlinig any updates regarding Daily Schedule, 
+I have created a channel in Telegram (using IFTTT) to ease the same by streamlinig any updates regarding Daily Schedule, Features etc at live time.
+Public Link:  
 
 
 <img src="AIR_Raagam.jpg" width="350" height="350">
