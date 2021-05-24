@@ -37,3 +37,6 @@ The downloadable files are availabale at: [https://julialang.org/downloads/](htt
 If you are more of a terminal person, here is a helpful blog from Henrique Ferrolho: [https://ferrolho.github.io/blog/2019-01-26/how-to-install-julia-on-ubuntu](https://ferrolho.github.io/blog/2019-01-26/how-to-install-julia-on-ubuntu)
 
 One of the best ways to use it is using Jupyter Notebooks. There are plenty of websites that contains how to set it up. Here is another useful blog on how to integrate the two: [https://datatofish.com/add-julia-to-jupyter/](https://datatofish.com/add-julia-to-jupyter/)
+
+**AIR Raagam Schedule:** During the lockdown due to COVID-19 second phase 
+![Thumbnail](AIR_Raagam.jpg)
