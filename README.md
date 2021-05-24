@@ -40,14 +40,14 @@ One of the best ways to use it is using Jupyter Notebooks. There are plenty of w
 
 
 
-**AIR Raagam Schedule:** During the lockdown due to COVID-19 second phase we figured out that Akashvani (All India Radio) has started featuring Raagam
- as a Youtube  Live. As much excited as we were, the daily schedule were nowhere to be found easily.
+**AIR Raagam Schedule:** During the lockdown due to COVID-19 second phase we figured out that Akashvani (All India Radio) has started featuring [Raagam](https://prasarbharati.gov.in/channel-raagam/)
+ as a [Youtube Live](https://www.youtube.com/watch?v=e9Vqu1bQZ6Q). As much excited as we were, the daily schedule were nowhere to be found easily.
 
 I have created a channel in Telegram (using IFTTT) to ease the same by streamlinig any updates regarding Schedule, Features etc, which samples the same from Twitter at live time.
 
 Public Link: [https://t.me/AIRRaagam](https://t.me/AIRRaagam)  
 
-AIR Raagam was founded on 2016 rebranding Amruthavarshini, which served the same for Carnatic Music Locally. It is being livestreamed in Youtube since February 2021.
+AIR Raagam is a 24x7 DTH channel dedicated to airing Indian Classical Music (Hindustani and Carnatic). It was founded in 2016 rebranding _Amruthavarshini_, which served the same for Carnatic Music Locally. It is being livestreamed in [Youtube](https://www.youtube.com/watch?v=e9Vqu1bQZ6Q) since February 2021.
 
 
 <img src="AIR_Raagam.jpg" width="240" height="240">
