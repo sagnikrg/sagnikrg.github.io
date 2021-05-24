@@ -44,6 +44,6 @@ One of the best ways to use it is using Jupyter Notebooks. There are plenty of w
  as a Youtube  Live. As much excited as we were, the daily schedule were nowhere to be found easily except for twitter.
 
 I have created this telegram bot using IFTTT to ease the same by streamlinig any updates regarding Daily Schedule, 
-
+<img src="AIR_Raagam.jpg" width="50" height="50">
  
  ![Thumbnail](AIR_Raagam.jpg){:height="36px" width="36px"}
