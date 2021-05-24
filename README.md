@@ -47,7 +47,7 @@ I have created a channel in Telegram (using IFTTT) to ease the same by streamlin
 
 Public Link: [https://t.me/AIRRaagam](https://t.me/AIRRaagam)  
 
-AIR Raagam was founded on 2016 rebranding Amruthavarshini, which served the same for Carnatic Music Locally.
+AIR Raagam was founded on 2016 rebranding Amruthavarshini, which served the same for Carnatic Music Locally. It is being livestreamed in Youtube since February 2021.
 
 
 <img src="AIR_Raagam.jpg" width="240" height="240">
