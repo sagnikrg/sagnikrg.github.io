@@ -49,5 +49,6 @@ Public Link: [https://t.me/AIRRaagam](https://t.me/AIRRaagam)
 
 AIR Raagam is a 24x7 DTH channel dedicated to airing Indian Classical Music (Hindustani and Carnatic). It was founded in 2016 rebranding _Amruthavarshini_, which served the same for Carnatic Music Locally. It is being livestreamed in [Youtube](https://www.youtube.com/watch?v=e9Vqu1bQZ6Q) since February 2021.
 
-<img src="AIR_Raagam.jpg" width="240" height="240">
+
+<img src="AIR_Raagam.jpg" width="242" height="242">
  
