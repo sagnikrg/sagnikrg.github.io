@@ -40,4 +40,6 @@ To familiarise with such basic commands, an usual place to look at is: [http://w
 
 **Running Codes, Submitting Jobs:**
 
+**A Sample Script File (And its basics):**
+
 **Monitoring Jobs:**
