@@ -3,7 +3,7 @@
 
 This file talks about the details about how to use our in house supercomputer.
 
-**Logging Out:**
+**Logging in:**
 
 To connect to the NSM server you have to use ssh. 
 From terminal the format for the same is:
@@ -30,9 +30,9 @@ You will be in the home directory of your account. It is instructable to create 
 
 **Terminal Commands:** The ususal Terminal commands functions. For e.g. You can use 
 
-  **mkdir _directoryname_** to create directory. 
-  **ls** to show files in current directory etc.
-  **rm _filename_** to remove a certain file.
+ * **mkdir _directoryname_** to create directory. 
+ * **ls** to show files in current directory etc.
+ * **rm _filename_** to remove a certain file.
   ****
 
 For such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
