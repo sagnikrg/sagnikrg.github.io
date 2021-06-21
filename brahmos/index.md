@@ -37,3 +37,7 @@ You will be in the home directory of your account. It is instructable to create 
 
 To familiarise with such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
  <br /> 
+
+**Running Codes, Submitting Jobs:**
+
+**Monitoring Jobs:**
