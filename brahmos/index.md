@@ -28,7 +28,12 @@ You will be in the home directory of your account. It is instructable to create 
 
 **Logging Out:** Press Ctrl+D
 
-**Terminal Commands:** The ususal commands for Terminal works. You can use "mkdir" to create directory, "ls" to show files in current directory etc.
+**Terminal Commands:** The ususal Terminal commands functions. For e.g. You can use 
+
+  **mkdir** <directoryname> to create directory. 
+  **ls** to show files in current directory etc.
+  **rm <filename>** to remove a certain file.
+  ****
 
 For such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
  <br /> 
