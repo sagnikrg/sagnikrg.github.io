@@ -34,6 +34,7 @@ You will be in the home directory of your account. It is instructable to create 
  * **ls** to show files in current directory etc.
  * **rm _filename_** to remove a certain file.
  * **rm** *sh to remove all the file ending with "sh" (similarly for any other phrases) in the present directory.
+ 
 
 To familiarise with such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
  <br /> 
