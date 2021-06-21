@@ -23,6 +23,8 @@ Note: Captchas are Case Sensitive.
 You will be in the home directory of your account. It is instructable to create your own folder in case you are using a shared account, 
 (which probably is the case for you if you are a Master's Student.)
 
+**Logging Out Command:** Press Ctrl+D
+
 The ususal codes for terminal works. You can use "mkdir" to create directory, "ls" to show files in current directory etc.
 
 For such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
