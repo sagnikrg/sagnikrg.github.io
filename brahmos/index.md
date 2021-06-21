@@ -8,7 +8,7 @@ This file talks about the details about how to use our in house supercomputer.
 To connect to the NSM server you have to use ssh. 
 From terminal the format for the same is:
 
-> ssh your_account@ip_addresss
+> ssh **your_account@ip_addresss**
 
 If things goes well it will connect to the user node and will print the dialouge box
 
@@ -21,7 +21,7 @@ If things goes well it will connect to the user node and will print the dialouge
 > Enter all the relevant credentials 
   (Captcha and Password). 
 
-Note: Captchas are Case Sensitive.
+**Note:** Captchas are Case Sensitive.
 
 You will be in the home directory of your account. It is instructable to create your own folder in case you are using a shared account, 
 (which probably is the case for you if you are a Master's Student.)
