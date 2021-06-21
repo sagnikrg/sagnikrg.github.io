@@ -33,7 +33,7 @@ You will be in the home directory of your account. It is instructable to create 
  * **mkdir _directoryname_** to create directory. 
  * **ls** to show files in current directory etc.
  * **rm _filename_** to remove a certain file.
-  ****
+ * **rm*sh **
 
 For such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
  <br /> 
