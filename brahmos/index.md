@@ -46,7 +46,8 @@ To familiarise with such basic commands, an usual place to look at is: [http://w
 **A Sample Script File (And its basics):**
 
 **Monitoring Jobs:**
-> squeue
-> sacct
+>> squeue
+
+>> sacct -j jobid --format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
 
 **Parallelising A Code:**
