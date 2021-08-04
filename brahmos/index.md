@@ -47,7 +47,7 @@ Copying files (codes/job scripts) to and (output/error files) from the NSM to lo
 
 However while doing the same with NSM, one ought to us it with the ip address. The format is,
 
-> scp &emsp;<your_account@ip_addresss:address directory from/flienames> <address directory to>
+> scp&emsp;<your_account@ip_addresss**:**address directory from/flienames> <address directory to>
 
 **NB:**
  
