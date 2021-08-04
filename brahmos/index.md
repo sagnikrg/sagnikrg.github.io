@@ -68,6 +68,6 @@ Further clarification: <https://stackoverflow.com/questions/10341032/scp-with-po
 **Monitoring Jobs:**
 > squeue
 
-> sacct -j jobid --format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
+> sacct&emsp -j &emspjobid &emsp--format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
 
 **Parallelising A Code:** 
