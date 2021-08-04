@@ -41,6 +41,10 @@ To familiarise with such basic commands, an usual place to look at is: [http://w
 
 **Copying Files (To and Fro):**
 
+Copying files (codes/job scripts) to and (output/error files) from the NSM to local machine can be and is usually done using the **scp** command. The format for the same is,
+
+> scp <address directory from/flienames> <address directory to>
+
 **Running Codes, Submitting Jobs:**
 
 **A Sample Script File (And its basics):**
