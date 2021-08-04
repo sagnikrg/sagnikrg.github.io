@@ -39,6 +39,9 @@ You will be in the home directory of your account. It is instructable to create 
 To familiarise with such basic commands, an usual place to look at is: [http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf](http://www.iiserpune.ac.in/~pgoel/Tutorial1.pdf)
  <br /> 
 
+
+
+
 **Copying Files (To and Fro):**
 
 Copying files (codes/job scripts) to and (output/error files) from the NSM to local machine can be and is usually done using the **scp** command. The format for the same is (while using locally),
