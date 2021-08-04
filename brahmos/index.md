@@ -8,7 +8,7 @@ This file talks about the details about how to use our in house supercomputer.
 To connect to the NSM server you have to use ssh. 
 From terminal the format for the same is:
 
-> ssh **your_account@ip_addresss**
+> ssh < **your_account@ip_addresss** >
 
 If things goes well it will connect to the user node and will print the dialouge box
 
@@ -41,17 +41,28 @@ To familiarise with such basic commands, an usual place to look at is: [http://w
 
 **Copying Files (To and Fro):**
 
-Copying files (codes/job scripts) to and (output/error files) from the NSM to local machine can be and is usually done using the **scp** command. The format for the same is,
+Copying files (codes/job scripts) to and (output/error files) from the NSM to local machine can be and is usually done using the **scp** command. The format for the same is (while using locally),
 
 > scp <address directory from/flienames> <address directory to>
 
+However while doing the same with NSM, one ought to us it with the ip address. The format is,
+
+> scp <your_account@ip_addresss:address directory from/flienames> <address directory to>
+
+**Notes**
+ 
+1. To copy to the present directory just use /.
+ 
+
+ 
+ 
 **Running Codes, Submitting Jobs:**
 
 **A Sample Script File (And its basics):**
 
 **Monitoring Jobs:**
->> squeue
+> squeue
 
->> sacct -j jobid --format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
+> sacct -j jobid --format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
 
 **Parallelising A Code:**
