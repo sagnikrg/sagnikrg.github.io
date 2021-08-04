@@ -49,11 +49,17 @@ However while doing the same with NSM, one ought to us it with the ip address. T
 
 > scp <your_account@ip_addresss:address directory from/flienames> <address directory to>
 
-**Notes**
+**NB:**
  
-1. To copy to the present directory just use /.
- 
+1. To copy to the present directory just use /. Similarly while pasting
+2. /*"phrase" copies (or pastes) all the files ending with "phrase" in the directory you have specified, just like the **rm** command.
+3. While using the IISER wide ip this will suffice. But if you are accessing the same using the public ip you ought to use port with the same. For that **note** unlike ssh, scp uses captial -P for port, not -p. So, the format will be modified as,
 
+> scp -P ##### <your_account@ip_addresss:address directory from/flienames> <address directory to>
+
+where ##### denotes the port number provided to you by the IT department.
+
+Further clarification: 
  
  
 **Running Codes, Submitting Jobs:**
@@ -65,4 +71,4 @@ However while doing the same with NSM, one ought to us it with the ip address. T
 
 > sacct -j jobid --format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
 
-**Parallelising A Code:**
+**Parallelising A Code:** <*https://stackoverflow.com/questions/10341032/scp-with-port-number-specified*>
