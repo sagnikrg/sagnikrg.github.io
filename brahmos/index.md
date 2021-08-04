@@ -8,7 +8,7 @@ This file talks about the details about how to use our in house supercomputer.
 To connect to the NSM server you have to use ssh. 
 From terminal the format for the same is:
 
-> ssh < **your_account@ip_addresss** >
+> ssh < your_account@ip_addresss >
 
 If things goes well it will connect to the user node and will print the dialouge box
 
@@ -59,7 +59,7 @@ However while doing the same with NSM, one ought to us it with the ip address. T
 
 where ##### denotes the port number provided to you by the IT department.
 
-Further clarification: 
+Further clarification: <https://stackoverflow.com/questions/10341032/scp-with-port-number-specified>
  
  
 **Running Codes, Submitting Jobs:**
@@ -71,4 +71,4 @@ Further clarification:
 
 > sacct -j jobid --format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
 
-**Parallelising A Code:** <*https://stackoverflow.com/questions/10341032/scp-with-port-number-specified*>
+**Parallelising A Code:** 
