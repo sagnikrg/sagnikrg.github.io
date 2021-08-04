@@ -59,8 +59,7 @@ However while doing the same with NSM, one ought to us it with the ip address. T
 
 where ##### denotes the port number provided to you by the IT department.
 
-Further clarification: [https://stackoverflow.com/questions/10341032/scp-with-port-number-specified](https://stackoverflow.com/questions/10341032/scp-with-port-number-specified)
- 
+Further clarification: <https://stackoverflow.com/questions/10341032/scp-with-port-number-specified>
  
 **Running Codes, Submitting Jobs:**
 
