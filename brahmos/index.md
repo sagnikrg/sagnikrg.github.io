@@ -67,7 +67,8 @@ where ##### denotes the port number provided to you by the IT department.
 
 **Monitoring Jobs:**
 > squeue
-
-> sacct&emsp -j &emspjobid &emsp--format=User,JobID,Jobname,partition,state,time,start,end,elapsed,MaxRss,MaxVMSize,nnodes,ncpus,nodelist
+> sacct&emsp -j &emspjobid &emsp--format=User,JobID,Jobname,partition,state,time,start,end,elapsed
+ 
+ Other options: MaxRss, MaxVMSize,nnodes, ncpus, nodelist etc.
 
 **Parallelising A Code:** 
