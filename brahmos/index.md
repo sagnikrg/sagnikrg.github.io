@@ -8,7 +8,7 @@ This file talks about the details about how to use our in house supercomputer.
 To connect to the NSM server you have to use ssh. 
 From terminal the format for the same is:
 
-> ssh < your_account@ip_addresss >
+> ssh &emsp;< your_account@ip_addresss >
 
 If things goes well it will connect to the user node and will print the dialouge box
 
@@ -43,11 +43,11 @@ To familiarise with such basic commands, an usual place to look at is: [http://w
 
 Copying files (codes/job scripts) to and (output/error files) from the NSM to local machine can be and is usually done using the **scp** command. The format for the same is (while using locally),
 
-> scp <address directory from/flienames> <address directory to>
+> scp &emsp;<address directory from/flienames> <address directory to>
 
 However while doing the same with NSM, one ought to us it with the ip address. The format is,
 
-> scp <your_account@ip_addresss:address directory from/flienames> <address directory to>
+> scp &emsp;<your_account@ip_addresss:address directory from/flienames> <address directory to>
 
 **NB:**
  
@@ -55,11 +55,11 @@ However while doing the same with NSM, one ought to us it with the ip address. T
 2. /*"phrase" copies (or pastes) all the files ending with "phrase" in the directory you have specified, just like the **rm** command.
 3. While using the IISER wide ip this will suffice. But if you are accessing the same using the public ip you ought to use port with the same. For that **note** unlike ssh, scp uses captial -P for port, not -p. So, the format will be modified as,
 
-> scp -P ##### <your_account@ip_addresss:address directory from/flienames> <address directory to>
+> scp &emsp;-P&emsp; #####&emsp; <your_account@ip_addresss:address directory from/flienames> <address directory to>
 
 where ##### denotes the port number provided to you by the IT department.
 
-Further clarification: <https://stackoverflow.com/questions/10341032/scp-with-port-number-specified>
+Further clarification: [https://stackoverflow.com/questions/10341032/scp-with-port-number-specified](https://stackoverflow.com/questions/10341032/scp-with-port-number-specified)
  
  
 **Running Codes, Submitting Jobs:**
