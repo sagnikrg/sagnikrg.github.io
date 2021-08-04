@@ -47,7 +47,7 @@ Copying files (codes/job scripts) to and (output/error files) from the NSM to lo
 
 However while doing the same with NSM, one ought to us it with the ip address. The format is,
 
-> scp&emsp;<your_account@ip_addresss**:**address directory from/flienames> <address directory to>
+> scp &emsp;<your_account@ip_addresss**:**address directory from/flienames> <address directory to>
 
 **NB:**
  
@@ -67,7 +67,8 @@ where ##### denotes the port number provided to you by the IT department.
 
 **Monitoring Jobs:**
 > squeue
-> sacct&emsp -j &emspjobid &emsp--format=User,JobID,Jobname,partition,state,time,start,end,elapsed
+ 
+> sacct &emsp; -j &emsp; jobid &emsp;--format=User,JobID,Jobname,partition,state,time,start,end,elapsed
  
  Other options: MaxRss, MaxVMSize,nnodes, ncpus, nodelist etc.
 
