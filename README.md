@@ -1,4 +1,3 @@
-![Thumbnail](Guernica.jpg)
 ### Academic Subpage of
 ## Sagnik Ghosh
 
@@ -25,6 +24,8 @@ Here is a [sample output](https://sagnikiiser.github.io/MS%20Thesis%20Proposal/M
 If you wish to fit in more text, change the classfile from _article_ to _amsart_.
 
 Editable Latex Template as zip file: [MS_Thesis_Proposal.zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SagnikIISER/sagnikiiser.github.io/blob/main/MS%20Thesis%20Proposal/MS%20Thesis%20Proposal.zip) 
+
+![Thumbnail](Guernica.jpg)
 
 **Manual for Supercomputer:**
 Recently, I have been creating a manual to collate working knowledge of our in-house Supercomputer, Param-Brahma, which is usually passed on from generations to generations of students.
