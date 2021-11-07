@@ -27,6 +27,7 @@ Editable Latex Template as zip file: [MS_Thesis_Proposal.zip](https://minhaskama
 
 ![Thumbnail](Guernica.jpg)
 
+
 **Manual for Supercomputer:**
 Recently, I have been creating a manual to collate working knowledge of our in-house Supercomputer, Param-Brahma, which is usually passed on from generations to generations of students.
 <br/> [https://sagnikiiser.github.io/brahmos/](https://sagnikiiser.github.io/brahmos/)
