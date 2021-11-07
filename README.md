@@ -2,7 +2,6 @@
 
 ### BSMS Student at [IISER Pune](http://iiserpune.ac.in)
 
-
 I did my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai.
 
 Earlier I have been a [NIUS](https://nius.hbcse.tifr.res.in) Fellow at [HBCSE (TIFR)](http://www.hbcse.tifr.res.in/).
