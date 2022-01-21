@@ -1,9 +1,13 @@
 # Rare Ragas of HCM 
 
-This experiment of a blog is a humble attempt to create comprehensive playlists of _Bandishes (compositions)_, composed particularly in Ragas that are rather complex, rather rare or both! Hindusthani Classical Music can be thought of
+This experiment of a blog is a humble attempt to create comprehensive playlists of _Bandishes (compositions)_, composed particularly in Ragas that are rather complex, rather rare or both! Hindusthani Classical Music can be thought of summation of distinct _Gharanas (A loose translation will be "schools")_, which are largely historical, and were formed around a Maestro, hosted by the Royal Court of some Princely States. In most cases the Gharana is thus named after the court (notable exceptions being _Bhindi Bazar_ and even _Jaipur_, which was actually formed around Ustad Alladiya Khan in the Royal Courts of _Kolhapur_.) 
+
+Although all Gharanas come with their unique reportoire of styles (of both presentation and ornamental), compositions, rules and ragas, Jaipur artists (contemporary and erstwhile) are especially famed about rarely performing ragas that are not rare on stages. Hence, (at least on the initial days) our list is very likely to be heavily biased towards Jaipur bndishes. Sincere efforts will however be made to be exhaustive of whatever is available on public domain! 
 
 
-If not Gharana-wise toom, We will very definitely follow a Raga-wise trajectory!
+If not Gharana-wise too, We will very definitely follow a Raga-wise trajectory! The content is supposed to undergo regular update.
+
+Stay Tuned!!
 
 ## The Jeypore Portfolio:
 
