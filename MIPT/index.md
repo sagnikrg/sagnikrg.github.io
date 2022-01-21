@@ -18,7 +18,7 @@ Schedule wise compendium of the Papers Discussed:
 
 **Jan 4, 2022**
 
-_Sagnik tested positive for SarsCov2!!_
+_Sagnik tested positive for SARS-CoV-2!! Yikes!!_ 
 
 
 
