@@ -14,9 +14,13 @@ Schedule wise compendium of the Papers Discussed:
 **Sandipan** presented
 
 
+
+
 **Jan 4, 2022**
 
 _Sagnik tested positive for SarsCov2!!_
+
+
 
 
 **Jan 20, 2022:**
