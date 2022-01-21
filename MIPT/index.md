@@ -9,7 +9,7 @@ Schedule wise compendium of the Papers Discussed:
 
 **December 24, 2021:**
 
-**Sagnik** presented Ehud Altmans first paper
+**Sagnik** presented Ehud Altman's first paper
 
 **Sandipan** presented
 
