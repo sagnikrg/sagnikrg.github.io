@@ -18,6 +18,7 @@ You can have a look at my detailed [Project Report](https://sagnikiiser.github.i
 A Journal Club on Measurement Induced Phase Transition: [here](https://sagnikiiser.github.io/MIPT/)
 
 
+
 ### Further Stuffs
 
 
