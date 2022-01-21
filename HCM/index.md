@@ -5,7 +5,7 @@ This experiment of a blog is a humble attempt to create comprehensive playlists 
 Although all Gharanas come with their unique reportoire of styles (of both presentation and ornaments), compositions, rules and ragas, Jaipur artists in particular (contemporary and erstwhile) are especially famed about rarely performing ragas that are not rare on stage. Hence, (at least on the initial days) our list is very likely to be heavily biased towards Jaipur bandishes. Sincere efforts will however be made to be exhaustive of whatever is available on public domain! 
 
 
-If not Gharana-wise too, We will very definitely follow a Raga-wise trajectory! The content is supposed to undergo regular update...
+If not Gharana-wise too, We will very definitely follow a Raga-wise trajectory! Will we ever do an Artist-wise arrangement? We will see! The content is supposed to undergo regular update...
 
 Stay Tuned!!
 
