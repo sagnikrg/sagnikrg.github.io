@@ -15,6 +15,11 @@ You can have a look at my detailed [Project Report](https://sagnikiiser.github.i
 
 ### Quick Links
 
+A Journal Club on Measurement Induced Phase Transition: [here](https://sagnikiiser.github.io/MIPT/)
+
+
+### Further Stuffs
+
 
 **MS Thesis Proposal:**
 The usual tex file provided (at least at our time) suffered from various allignment and bibliography incompatibility issues which forced many to choose the .txt alternative. I had attempted to fix these during the Lockdown 2020 to more faithfully reprodue its .txt analogue. 
