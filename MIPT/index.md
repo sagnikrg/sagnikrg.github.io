@@ -1,4 +1,4 @@
-# A Journal Club on Measurement Induced Phase Transition
+## A Journal Club on Measurement Induced Phase Transition
 
 ### Indian Institue of Science Education & Research (IISER) Pune
 
