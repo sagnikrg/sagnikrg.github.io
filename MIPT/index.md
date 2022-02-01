@@ -33,4 +33,4 @@ _Sagnik tested positive for SARS-CoV-2!! Yikes!!_
 **Sagnik** developed an Introduction to Exact Diagonalisation Methods and covered the theory Power Method, Krylov subspace techniques, the Arnoldi and the Lanczos scheme and various Spectral Transformations, namely the shift-inverse and the Chebyshev expansion of Identity.
 
 
-[Some Latexed Notes](https://sagnikiiser.github.io/MIPT/Notes__Exact_Diagonalisation_and_Krylov_Space_Methods.pdf) 
+[[Sagnik' Notes]](https://sagnikiiser.github.io/MIPT/Notes__Exact_Diagonalisation_and_Krylov_Space_Methods.pdf) 
