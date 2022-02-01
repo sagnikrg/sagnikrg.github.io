@@ -32,6 +32,6 @@ _Sagnik tested positive for SARS-CoV-2!! Yikes!!_
 **Sagnik** developed an Introduction to Exact Diagonalisation Methods and covered the theory Power Method, Krylov subspace techniques, the Arnoldi and the Lanczos scheme and various Spectral Transformations, namely the shift-inverse and the Chebyshev expansion of Identity.
 
 
-[[Sagnik' Notes]](https://sagnikiiser.github.io/MIPT/Notes__Exact_Diagonalisation_and_Krylov_Space_Methods.pdf) ,  [[David Luitz, Fabien Alet's codes on Shift-Inverse for MBL]](https://scipost.org/SciPostPhys.5.5.045/pdf)
+[[Sagnik' Notes]](https://sagnikiiser.github.io/MIPT/Notes__Exact_Diagonalisation_and_Krylov_Space_Methods.pdf) ,  [[David Luitz, Fabien Alet's modules on Shift-Inverse for MBL]](https://scipost.org/SciPostPhys.5.5.045/pdf)
 
 [[Numerical Methods for Large Eigenvalue Problems]](https://sagnikiiser.github.io/MIPT/Saad_Y)(Contains all of the theory, information on some of the packages and some of the convergence proofs)
