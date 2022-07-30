@@ -65,3 +65,7 @@ AIR Raagam is a 24x7 DTH channel dedicated to airing Indian Classical Music (Hin
 
 <img src="AIR_Raagam.jpg" width="242" height="242">
  
+Among many things at IISER that proliferated my interests and helped me grow is the Societey for Promotion of Indian Classical Music and Culture Among Youth (SPICMACAY, Pune Chapter). Here is one of the concerts by Vidushi Aarti Ankalikar Tikekar:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQjinrIOng0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
