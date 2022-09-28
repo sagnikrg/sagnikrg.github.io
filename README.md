@@ -1,8 +1,12 @@
 ## Sagnik Ghosh
 
+I am presently working as a Doctoral Student with [Dr. David Luitz](https://dluitz.github.io/) at the Physikalishes Institut of the [University of Bonn](https://www.pi.uni-bonn.de/). 
+
 ### Curriculam Vitae
 
-### BSMS Student at [IISER Pune](http://iiserpune.ac.in)
+
+
+# BSMS Dual Degree : [IISER Pune](http://iiserpune.ac.in)
 
 
 I did my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai.
