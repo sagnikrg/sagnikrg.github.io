@@ -1,17 +1,15 @@
-## Sagnik Ghosh
+# Sagnik Ghosh
 
-I am presently working as a Doctoral Student with [Dr. David Luitz](https://dluitz.github.io/) at the Physikalishes Institut of the [University of Bonn](https://www.pi.uni-bonn.de/). 
+I am presently working as a Doctoral Student with [Dr. David Luitz](https://dluitz.github.io/) at the Physikalishes Institut of the [University of Bonn](https://www.pi.uni-bonn.de/). I did my BS-MS as a dual degree from [IISER Pune](http://iiserpune.ac.in) with a major in Physics. I am primarily intrested in non equilibrium many body physics, and am currently excavating minimal models for Discrete Time Crystals as a part of my doctoral thesis.
+ 
 
 ### Curriculam Vitae
 
+* University of Bonn - Doctoral Researcher (2022-)
+* IISER Pune- BSMS Dual Degree (2016-2021)
 
-
-# BSMS Dual Degree : [IISER Pune](http://iiserpune.ac.in)
-
-
-I did my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai.
-
-Earlier I have been a [NIUS](https://nius.hbcse.tifr.res.in) Fellow at [HBCSE (TIFR)](http://www.hbcse.tifr.res.in/).
+* I did my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai, with Dr. Rajdeep Sensarma , studying Phonon-Electron Equilibration using Keldysh Field Theory
+* Earlier I have been a [NIUS](https://nius.hbcse.tifr.res.in) Fellow at [HBCSE (TIFR)](http://www.hbcse.tifr.res.in/).
 
 I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical Aspects. 
 
