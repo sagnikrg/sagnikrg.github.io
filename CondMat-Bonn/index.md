@@ -19,6 +19,13 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 
 
+**October 22, 2022**
+
+**Speaker:** David Luitz
+
+**Title:** TBA
+
+
 ![Thumbnail](logo.png)
 
 
