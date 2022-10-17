@@ -1,5 +1,5 @@
-## A Journal Club on Condesed Matter
-## PI, Uni Bonn
+## A Journal Club on Condesed Matter Theory
+## Physikalisches Institut, Uni Bonn
 
 Schedule:
 
