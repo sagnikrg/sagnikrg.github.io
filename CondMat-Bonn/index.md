@@ -18,11 +18,11 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 
 
+
+![Thumbnail](logo.png)
+
+
 **Link for Zulip:**
 
 (https://condmat-bonn.zulipchat.com/)
 
-
-
-
-![Thumbnail](logo.png)
