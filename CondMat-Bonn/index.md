@@ -1,7 +1,7 @@
 ## A Journal Club on Condesed Matter Theory
 ## Physikalisches Institut, Uni Bonn
 
-![Thumbnail](institutelogo.png )
+![Thumbnail](institutelogo.png)
 
 
 Schedule:
@@ -22,3 +22,7 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 (https://condmat-bonn.zulipchat.com/)
 
+
+
+
+![Thumbnail](logo.png)
