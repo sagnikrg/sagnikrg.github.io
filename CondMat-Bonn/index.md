@@ -17,4 +17,4 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 Link for Zulip:
 
-https://condmat-bonn.zulipchat.com/
+[https://condmat-bonn.zulipchat.com/]
