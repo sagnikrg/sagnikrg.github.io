@@ -1,6 +1,9 @@
 ## A Journal Club on Condesed Matter Theory
 ## Physikalisches Institut, Uni Bonn
 
+![Thumbnail](institutelogo.png )
+
+
 Schedule:
 
 **October 19, 2022**
