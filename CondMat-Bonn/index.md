@@ -19,7 +19,7 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 
 
-**2. October 22, 2022**
+**2. October 26, 2022**
 
 **Speaker:** David Luitz
 
