@@ -18,7 +18,8 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/146/](https://indico.hiskp.uni-bonn.de/event/146/)
 
-[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Marvin.pdf),
+[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Marvin.pdf)
+
 [Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster.pdf)
 
 
