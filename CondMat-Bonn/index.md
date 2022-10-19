@@ -30,7 +30,16 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.
 
 **Speaker:**  Philipp Höllmer (AG Monien)
 
-**Title:** TBA
+**Title:** Bringing the power of Monte Carlo methods to long-range-interacting molecular systems
+
+**Abstract:** 
+
+Molecular simulations are widespread in molecular sciences to study, e.g., protein folding. Here, chemical systems are modeled empirically by a set of atomic positions with parameterized interaction potentials. Nowadays, molecular-dynamics (MD) simulations are predominantly used to study long-range-interacting molecular systems because of their superior computational complexities and Newtonian dynamics when compared to traditional Markov-chain Monte Carlo (MCMC) simulations. We argue that both disadvantages of traditional reversible MCMC are overcome by event-chain Monte Carlo (ECMC), which is a family of non-reversible MCMC methods.
+
+In this talk, we will explore how ECMC samples the equilibrium Boltzmann distribution exactly, although it uses non-equilibrium dynamics and never computes the total system potential. We will discuss how ECMC's sole restriction of the global-balance condition yields a great freedom to implement quickly decorrelating dynamics beyond Newtonian's dynamics of MD. This freedom is evidenced by various variants of ECMC that show widely different performances depending on the specific use case. Finally, we will demonstrate O(N log N) scaling for ECMC's decorrelation of an N-body system of a commonly used long-range-interacting water model. This matches the performance of MD without ever discretizing time or space.
+
+Collaborators: N. Noirault (ENS Paris), B. Li (ENS Paris), A. C. Maggs (ESPCI Paris), W. Krauth (ENS Paris)
+
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
 
