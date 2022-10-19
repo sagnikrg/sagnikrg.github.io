@@ -4,11 +4,11 @@
 ![Thumbnail](institutelogo.png)
 
 
-Schedule:
+## Upcoming Schedule:
 
 **1. October 19, 2022**
 
-**Speaker:** Marvin Lenk
+**Speaker:** Marvin Lenk (AG Kroha)
 
 **Title:** Heavy-Fermion Systems and Some Exotic Examples
 
@@ -24,11 +24,32 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/146/](https://indico.hiskp.
 
 **2. October 26, 2022**
 
-**Speaker:** David Luitz
+**Speaker:** Prof. David Luitz
 
 **Title:** TBA
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
+
+
+**3. November 2, 2022**
+
+**Speaker:**  TBA
+
+**Title:** TBA
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
+
+
+
+**4. Movember 9, 2022**
+
+**Speaker:**  Philipp Höllmer (AG Monien)
+
+**Title:** TBA
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
+
+
 
 
 ![Thumbnail](logo.png)
