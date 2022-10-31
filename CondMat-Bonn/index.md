@@ -1,10 +1,10 @@
-## A Journal Club on Condesed Matter Theory
-## Physikalisches Institut, Uni Bonn
+# A Journal Club on Condesed Matter Theory
+# Physikalisches Institut, Uni Bonn
 
 ![Thumbnail](institutelogo.png)
 
 
-## Upcoming Schedule:
+# Upcoming Schedule:
 
 
 **3. November 2, 2022**
@@ -62,7 +62,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.
 
 
 
-## Past Talks
+# Past Talks
 
 **2. October 26, 2022**
 
