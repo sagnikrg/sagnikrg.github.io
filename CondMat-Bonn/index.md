@@ -1,5 +1,5 @@
 # A Journal Club on Condesed Matter Theory
-## Physikalisches Institut, Uni Bonn
+# Physikalisches Institut, Uni Bonn
 
 ![Thumbnail](institutelogo.png)
 
