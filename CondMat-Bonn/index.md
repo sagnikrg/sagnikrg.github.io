@@ -56,6 +56,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.
 
 
 **Title:** Interacting spins under quasiperiodic drive
+
 **Speaker:** Dr. Sayak Ray
 
 **Abstract:** 
@@ -75,6 +76,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.
 
 
 **Title:** Heavy-Fermion Systems and Some Exotic Examples 
+
 **Speaker:** Marvin Lenk (AG Kroha)
 
 **Abstract:**
