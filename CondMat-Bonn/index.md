@@ -18,8 +18,10 @@
 [1] M.-Z. Huang et al., arXiv:2210.03371
 
 
-
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.uni-bonn.de/event/156/)
+
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Anne-Maria.pdf)]
+
 
 
 
