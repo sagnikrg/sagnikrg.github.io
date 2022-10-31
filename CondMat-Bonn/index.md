@@ -53,6 +53,21 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.
 
 ## Past Talks
 
+*2. October 26, 2022**
+
+**Speaker:** Dr. Sayak Ray
+
+**Title:** Interacting spins under quasiperiodic drive
+
+**Abstract:** In this talk, I will discuss the dynamics of a system subjected to quasiperiodic drive. As a toy model, I will consider a spin-S object subjected to \delta-function kicks which are applied in the transverse direction of the magnetic field and generated from a Fibonacci sequence. In the large spin classical limit, the phase space appears to be chaotic; interestingly, however, the Lyapunov exponent turns out to be zero and thus the dynamics remain phase-coherent. I will show that such dynamics are similar to a strange non-chaotic attractor with fractal nature which is also present in the Floquet eigenstates. Interaction with another spin results in ergodic dynamics leading to infinite temperature thermalization.
+
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
+
+
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Sayak.pdf)]
+
+
 
 **1. October 19, 2022**
 
