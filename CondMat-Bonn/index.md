@@ -9,9 +9,11 @@
 
 **3. November 2, 2022**
 
-**Speaker:**  Dr Anne-Maria Johanna Visuri
+
 
 **Title:** Superfluid transport through a dissipative quantum point contact
+
+**Speaker:**  Dr Anne-Maria Johanna Visuri (AG Kollath)
 
 **Abstract:** 
 
@@ -32,9 +34,11 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.
 
 **4. Movember 9, 2022**
 
-**Speaker:**  Philipp Höllmer (AG Monien)
+
 
 **Title:** Bringing the power of Monte Carlo methods to long-range-interacting molecular systems
+
+**Speaker:**  Philipp Höllmer (AG Monien)
 
 **Abstract:** 
 
@@ -66,7 +70,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.
 
 **Title:** Interacting spins under quasiperiodic drive
 
-**Speaker:** Dr. Sayak Ray
+**Speaker:** Dr. Sayak Ray (AG Kroha)
 
 **Abstract:** 
 
