@@ -17,6 +17,7 @@ You can have a look at my detailed [Project Report](https://sagnikiiser.github.i
 
 ### Quick Links
 
+* **The Conndesed Matter Theory Journal Club-Uni Bonn:** [CondMat-Bonn](https://sagnikiiser.github.io/CondMat-Bonn/)
 
 * A Journal Club on [Measurement Induced Phase Transitions.](https://sagnikiiser.github.io/MIPT/)
 * A Seminar Series on Geometric Quantisation
