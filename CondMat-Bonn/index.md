@@ -61,6 +61,7 @@ We study theoretically and experimentally the superfluid transport of ultracold 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.uni-bonn.de/event/156/)
 
 [[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Anne-Maria.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Anne-Maria.pdf)]
 
 
 **2. October 26, 2022**
