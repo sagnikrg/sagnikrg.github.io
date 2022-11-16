@@ -7,6 +7,40 @@
 # Upcoming Schedule:
 
 
+**5. Movember 21, 2022 (Monday)**
+
+
+**Title:** The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature
+
+**Speaker:**  Robin Schaefer (MPI-PKS Dresden)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+
+Frustrated magnets realize exotic forms of quantum matter beyond conventional order. However, many questions remain unanswered due to a lack of controlled and unbiased methods to study frustration in three dimensions. While most established numerical techniques have limited applicability, approaches based on cluster expansions are promising alternatives revealing novel insights into an archetypal problem of frustrated magnetism in three dimensions: the pyrochlore Heisenberg antiferromagnet. For the first time, we are able to unbiasedly resolve its thermodynamic quantities to a temperature far beyond the scale on which the Schottky anomaly occurs. The broad applicability of the numerical linked cluster algorithm allows for the systematic investigation of different spin-liquid candidate materials such as the Cerium-based pyrochlores Ce2Zr2O7 and Ce2Sn2O7.
+
+Despite a similar chemical composition, the algorithm finds fundamental differences in their quantum mechanical nature by constraining their microscopic exchange parameters.
+
+Zero temperature properties are even less accessible: Neither the nature of the ground state nor an estimate of its energy are known for the pyrochlore antiferromagnet. Large-scale density matrix renormalization group calculations pushed to three dimensions provide the first reliable estimate of its ground-state energy and yield robust evidence for a spontaneous inversion symmetry breaking manifesting itself as an energy density difference on the tetrahedral sublattice. The symmetry-breaking tendency of the model is further observed in the presence of an external magnetic field where similar calculations suggest a stable 1/2-magnetization plateau. Continuing the investigation of low-energy states, we propose a new family  -- exponentially numerous in the linear system size -- of valence-bond crystals as potential ground states. Understanding the stability of the previously overlooked family of states suggests a remarkable change of perspective on frustration with a focus on unfrustrated motifs, which are effectively uncoupled by the frustration. They can be visualized as hard-hexagon coverings, with each hexagon representing a resonating valence-bond ring breaking rotation, inversion, and translation symmetries spontaneously.
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/171/](https://indico.hiskp.uni-bonn.de/event/171/)
+
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Phillip.pdf)]
+
+
+
+
+
+
+# Past Talks
+
 **4. Movember 9, 2022**
 
 
@@ -36,9 +70,6 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.
 
 
 
-
-
-# Past Talks
 
 **3. November 2, 2022**
 
