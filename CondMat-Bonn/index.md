@@ -9,7 +9,7 @@
 
 **8. December 14, 2022 (Wednesday)**
 
- <img src="Micha.jpg" width="500" height="600"> 
+ <img src="Micha.jpg" width="400" height="520"> 
 
 
 
