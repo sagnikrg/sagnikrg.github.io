@@ -10,7 +10,7 @@
 **8. December 14, 2022 (Wednesday)**
 
 
-![Thumbnail](Micha.png)
+![Thumbnail](Micha.jpg)
 
 
 **Title:** Absorbing State Transitions in Monitored Systems
