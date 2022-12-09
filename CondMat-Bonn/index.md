@@ -45,6 +45,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.
 
 **7. December 8, 2022 (Thursday)**
 
+<img src="Sagnik.jpg" height="400"> 
 
 **Title:** Absorbing State Transitions in Monitored Systems
 
@@ -74,6 +75,8 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/190/](https://indico.hiskp.
 
 **6. December 1, 2022 (Thursday)**
 
+<img src="Franco.jpg" height="400"> 
+
 
 **Title:** TMajorana edge-modes in a spinful particle conserving model
 
@@ -98,6 +101,9 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.
 
 
 **5. Movember 21, 2022 (Monday)**
+
+
+<img src="Robin.jpg" height="400"> 
 
 
 **Title:** The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature
@@ -128,7 +134,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/171/](https://indico.hiskp.
 
 **4. Movember 9, 2022**
 
-
+<img src="Phillip.png" height="400"> 
 
 **Title:** Bringing the power of Monte Carlo methods to long-range-interacting molecular systems
 
@@ -204,6 +210,8 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.
 
 
 **1. October 19, 2022**
+
+<img src="Marvin.jpg" height="400"> 
 
 
 **Title:** Heavy-Fermion Systems and Some Exotic Examples 
