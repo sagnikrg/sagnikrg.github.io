@@ -10,6 +10,9 @@
 **8. December 14, 2022 (Wednesday)**
 
 
+![Thumbnail](Micha.png)
+
+
 **Title:** Absorbing State Transitions in Monitored Systems
 
 **Speaker:**  Michael Kajan (AG Kroha)
