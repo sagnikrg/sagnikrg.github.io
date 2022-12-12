@@ -71,7 +71,11 @@ ArXiv:2211.12526. (22 Nov 2022.)
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/190/](https://indico.hiskp.uni-bonn.de/event/190/)
 
 Slides:
+
 <iframe src="https://slides.com/sagnikghosh-1/numerical-models-in-cond-mat-physics-267d5a/embed" width="576" height="420" title="Absorbing Transitions" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
 
 
 
