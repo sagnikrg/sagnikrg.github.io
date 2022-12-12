@@ -33,7 +33,7 @@ We focus on bosonic systems, which may show spontaneously broken symmetry requir
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.uni-bonn.de/event/198/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Micha.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Micha-min.pdf)]
 
 
 
@@ -102,7 +102,7 @@ Topologically protected edge states, such as Majorana edge modes, have attracted
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.uni-bonn.de/event/189/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Franco.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Franco-min.pdf)]
 
 
 
@@ -134,7 +134,7 @@ Zero temperature properties are even less accessible: Neither the nature of the 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/171/](https://indico.hiskp.uni-bonn.de/event/171/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Robin.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Robin-min.pdf)]
 
 
 
@@ -161,7 +161,7 @@ Collaborators: N. Noirault (ENS Paris), B. Li (ENS Paris), A. C. Maggs (ESPCI Pa
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.uni-bonn.de/event/159/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Phillip.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Phillip-min.pdf)]
 
 
 
@@ -189,7 +189,7 @@ We study theoretically and experimentally the superfluid transport of ultracold 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.uni-bonn.de/event/156/)
 
 [[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Anne-Maria.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Anne-Maria.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Anne-Maria-min.pdf)]
 
 
 **2. October 26, 2022**
