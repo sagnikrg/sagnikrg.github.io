@@ -165,7 +165,7 @@ Collaborators: N. Noirault (ENS Paris), B. Li (ENS Paris), A. C. Maggs (ESPCI Pa
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.uni-bonn.de/event/159/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Phillip-min.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Philipp-min.pdf)]
 [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Philipp.pdf)]
 
 
