@@ -13,7 +13,7 @@
 
 
 
-**Title:** Absorbing State Transitions in Monitored Systems
+**Title:** Methods for Slave-Particles in Non-Equilibrium
 
 **Speaker:**  Michael Kajan (AG Kroha)
 
@@ -78,7 +78,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/190/](https://indico.hiskp.
 <img src="Franco.jpg" height="400"> 
 
 
-**Title:** TMajorana edge-modes in a spinful particle conserving model
+**Title:** Majorana edge-modes in a spinful particle conserving model
 
 **Speaker:**   Dr. Franco Thomas Lisandrini (AG Kollath)
 
