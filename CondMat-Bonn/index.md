@@ -61,6 +61,10 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.
 
 In this talk I will start with briefly reviewing the recent literature on the phenomena of Measurement Induced Phase Transitions in Unitary systems punctuated with projection operators. The criticality in these systems is however only visible in particular trajectories and the ensemble averaged density matrix is featureless and often maximally scrambled. This makes their experimental realization exponentially difficult, as one ought to build an ensemble of the exact measurement realizations, dimensions of which scales exponentially, a problem which is formally known as post-selection. With these foundations, in the remainder I will discuss a last week Arxiv paper by Vedika Khemani et. al. that attempts to find an alternate absorbing criticality in the punctuated systems that does not suffer from post selection and hence is claimed to be a more suitable candidate for experimental realization.
 
+ 
+ 
+ 
+ 
 
 Reference: Entanglement and Absorbing-State Transitions in Interactive Quantum Dynamics.
 O'Dea N, Morningstar A, Gopalakrishnan S, Khemani V.
