@@ -108,6 +108,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.
 
 [[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Franco-min.pdf)]
 
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Franco.pdf)]
 
 
 **5. Movember 21, 2022 (Monday)**
@@ -166,7 +167,7 @@ Collaborators: N. Noirault (ENS Paris), B. Li (ENS Paris), A. C. Maggs (ESPCI Pa
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.uni-bonn.de/event/159/)
 
 [[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Phillip-min.pdf)]
-
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Philipp.pdf)]
 
 
 
@@ -192,8 +193,8 @@ We study theoretically and experimentally the superfluid transport of ultracold 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.uni-bonn.de/event/156/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Anne-Maria.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Anne-Maria-min.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Anne-Maria-min.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Anne-Maria.pdf)]
 
 
 **2. October 26, 2022**
