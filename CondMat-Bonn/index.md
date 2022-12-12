@@ -107,7 +107,6 @@ Topologically protected edge states, such as Majorana edge modes, have attracted
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.uni-bonn.de/event/189/)
 
 [[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Franco-min.pdf)]
-
 [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Franco.pdf)]
 
 
