@@ -7,6 +7,38 @@
 # Upcoming Schedule:
 
 
+**9. February 2, 2023 (Thursday)**
+
+ 
+
+
+**Title:** Study of quantum impurity problems in the framework of natural orbitals
+
+**Speaker:**  Maxime Debertolis (AG Luitz)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/250](https://indico.hiskp.uni-bonn.de/event/250/)
+
+
+
+
+
+
+# Past Talks
+
+
 **8. December 14, 2022 (Wednesday)**
 
  <img src="Micha.jpg" height="400"> 
@@ -39,9 +71,6 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.
 
 
 
-
-
-# Past Talks
 
 **7. December 8, 2022 (Thursday)**
 
