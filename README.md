@@ -55,7 +55,7 @@ If you are more of a terminal person, here is a helpful blog from Henrique Ferro
 
 One of the best ways to use it is using Jupyter Notebooks. There are plenty of websites that contains how to set it up. Here is another useful blog on how to integrate the two: [https://datatofish.com/add-julia-to-jupyter/](https://datatofish.com/add-julia-to-jupyter/)
 
-
+[JLhub](http://www.jlhub.com/julia/manual/en/function/eig) maintains descriptions of syntax etc for Julia functions. 
 
 **AIR Raagam Schedule:** During the lockdown owing to COVID-19 second phase, we figured out that Akashvani (All India Radio) has started featuring [Raagam](https://prasarbharati.gov.in/channel-raagam/) as a [Youtube Live](https://www.youtube.com/watch?v=e9Vqu1bQZ6Q). As much excited as we were, the daily schedule were nowhere to be found easily.
 
