@@ -6,8 +6,49 @@
 
 # Upcoming Schedule:
 
+**9. February 1, 2023 (Wednesday)**
 
-**9. February 2, 2023 (Thursday)**
+
+
+ 
+**Title:** Fast Time-Evolution of Matrix-Product States using the QR decomposition
+
+**Speaker:** Prof. David Luitz
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+This talk discusses the following paper by Jakob Unfried, Johannes Hauschild, and Frank Pollmann. The abstract of the same is attached below.
+
+ 
+
+Link to paper: https://arxiv.org/abs/2212.09782
+
+ 
+
+Abstract from the paper:
+
+We propose and benchmark a modified time evolution block decimation (TEBD) algorithm that uses a truncation scheme based on the QR decomposition instead of the singular value decomposition (SVD). The modification reduces the scaling with the dimension of the physical Hilbert space d from d3 down to d2. Moreover, the QR decomposition has a lower computational complexity than the SVD and allows for highly efficient implementations on GPU hardware. In a benchmark simulation of a global quench in a quantum clock model, we observe a speedup of up to three orders of magnitude comparing QR and SVD based updates on an A100 GPU.
+
+
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/251](https://indico.hiskp.uni-bonn.de/event/251/)
+
+
+
+
+
+
+
+**10. February 8, 2023 (Wednesday)**
 
  
 
@@ -29,7 +70,7 @@ I will present the work of my PhD thesis, in which quantum impurity problems are
 
 </details>
 
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/250](https://indico.hiskp.uni-bonn.de/event/250/)
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
 
 
 
