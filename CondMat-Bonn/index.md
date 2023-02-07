@@ -6,6 +6,87 @@
 
 # Upcoming Schedule:
 
+
+**10. February 8, 2023 (Wednesday)**
+
+ 
+
+
+**Title:** Study of quantum impurity problems in the framework of natural orbitals
+
+**Speaker:**  Maxime Debertolis (AG Luitz)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
+
+
+
+**11. February 16, 2023 (Thursday)**
+
+ 
+
+
+**Title:** Towards overcoming the sign problem with tensor networks and quantum computing
+
+**Speaker:**  Prof. Lena Funcke 
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+In this talk, I will discuss recent advances towards overcoming the sign problem of Monte Carlo simulations. There are several parameter regimes of lattice quantum field theory that cannot be simulated with conventional Monte Carlo methods, including topological terms, non-zero baryon density, and real-time dynamics. At the example of (1+1)-dimensional benchmark models, I will discuss new directions towards overcoming these problems, based on tensor networks and quantum computing. Finally, I will comment on the requirements to integrate these methods into (3+1)-dimensional lattice simulations in the future, focusing on Lattice QCD.
+
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/256](https://indico.hiskp.uni-bonn.de/event/256/)
+
+
+
+
+**12. February 22, 2023 (Wednesday)**
+
+ 
+
+
+**Title:** TBA
+
+**Speaker:**  Dr. Neda Ahamadi (AG Kollath)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+TBA
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.uni-bonn.de/event/257/)
+
+
+# Past Talks
+
 **9. February 1, 2023 (Wednesday)**
 
 
@@ -41,43 +122,6 @@ We propose and benchmark a modified time evolution block decimation (TEBD) algor
 </details>
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/251](https://indico.hiskp.uni-bonn.de/event/251/)
-
-
-
-
-
-
-
-**10. February 8, 2023 (Wednesday)**
-
- 
-
-
-**Title:** Study of quantum impurity problems in the framework of natural orbitals
-
-**Speaker:**  Maxime Debertolis (AG Luitz)
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
-
- 
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
-
-
-
-
-
-
-# Past Talks
 
 
 **8. December 14, 2022 (Wednesday)**
