@@ -41,7 +41,26 @@ In this work, we investigate the interplay between dissipation and symmetry-prot
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.uni-bonn.de/event/257/)
 
 
-# Past Talks
+**14. March 8, 2023 (Wednesday)**
+
+ 
+
+
+**Title:** TBA
+
+**Speaker:**  Prof. Dr. Johann Kroha
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+TBBA
+
+
+ 
+ # Past Talks
 
 **11. February 16, 2023 (Thursday)**
 
