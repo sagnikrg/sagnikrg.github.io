@@ -56,7 +56,7 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.u
 <details open>
 <summary></summary>
 <br>  
-TBBA
+TBA
 
 
  
