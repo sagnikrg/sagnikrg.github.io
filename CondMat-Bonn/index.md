@@ -7,14 +7,17 @@
 # Upcoming Schedule:
 
 
-**10. February 8, 2023 (Wednesday)**
+
+
+
+**12. February 22, 2023 (Wednesday)**
 
  
 
 
-**Title:** Study of quantum impurity problems in the framework of natural orbitals
+**Title:** Dissipative symmetry-protected topological order
 
-**Speaker:**  Maxime Debertolis (AG Luitz)
+**Speaker:**  Dr. Neda Ahamadi (AG Kollath)
 
 **Abstract:** 
 
@@ -23,15 +26,22 @@
 <summary></summary>
 <br>  
 
-I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
+In this work, we investigate the interplay between dissipation and symmetry-protected topological order. We considered the one-dimensional Spin-1 Affleck-Kennedy-Lieb-Tasaki model interacting with an environment where the dissipative dynamics are described by the Lindladian master equation. The Markovian dynamics is solved by the implementation of a tensor-network algorithm for mixed states in the thermodynamic limit. We observe that, for time-reversal symmetric dissipation, the resulting steady state has topological signatures even if being a mixed state. This is seen in finite string-order parameters as well as in the degeneracy pattern of singular values in the tensor network decomposition of the reduced density matrix. We also show that such features do not appear for non-symmetric dissipation. Our work opens the way toward a generalized and more practical definition of symmetry-protected topological order for mixed states induced by dissipation.
+
+​
+
+​Arxiv Link: https://arxiv.org/abs/2211.14389
+
+
 
  
 
 </details>
 
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.uni-bonn.de/event/257/)
 
 
+# Past Talks
 
 **11. February 16, 2023 (Thursday)**
 
@@ -59,16 +69,14 @@ In this talk, I will discuss recent advances towards overcoming the sign problem
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/256](https://indico.hiskp.uni-bonn.de/event/256/)
 
 
-
-
-**12. February 22, 2023 (Wednesday)**
+**10. February 8, 2023 (Wednesday)**
 
  
 
 
-**Title:** TBA
+**Title:** Study of quantum impurity problems in the framework of natural orbitals
 
-**Speaker:**  Dr. Neda Ahamadi (AG Kollath)
+**Speaker:**  Maxime Debertolis (AG Luitz)
 
 **Abstract:** 
 
@@ -76,16 +84,18 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/256](https://indico.hiskp.u
 <details open>
 <summary></summary>
 <br>  
-TBA
+
+I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
 
  
 
 </details>
 
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.uni-bonn.de/event/257/)
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
 
 
-# Past Talks
+
+
 
 **9. February 1, 2023 (Wednesday)**
 
