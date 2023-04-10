@@ -41,7 +41,7 @@ or: How to measure Eulers constant
 
 
 <details open>
-<summary </summary>
+<summary> </summary>
 <br>  
 TBA
 </details>
@@ -57,7 +57,7 @@ TBA
 
 
 <details open>
-<summary </summary>
+<summary> </summary>
 <br>  
 TBA
 </details>
