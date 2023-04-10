@@ -20,7 +20,7 @@ or: How to measure Eulers constant
 
 
 <details open>
-<summary </summary>
+<summary> </summary>
 <br>  
 
  The RKKY interaction is a coupling between magnetic impurities in a metal mediated over large distances by the conduction electrons. Its interplay with the local Kondo spin singlet formation can induce quantum phase transitions (QPT) from a heavy Fermi liquid to magnetically ordered phases. However, the RKKY interaction has escaped a systematical treatment due to its indirect, long-range nature. In this talk we discuss an analytic 1-loop renormalization group (RG ) treatment of Kondo breakdown under the influence of the RKKY interaction. Its long-range nature is self-consistently incorporated in the RG in the spirit of a dynamical mean-field theory. The theory predicts a universal suppression of the Kondo scale at the QPT in agreement with experiments on two-impurity Kondo systems. It suggests a rather complicated way for "measuring" Euler's constant.
