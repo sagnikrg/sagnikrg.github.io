@@ -6,6 +6,40 @@
 
 # Upcoming Schedule:
 
+**15. April 25, 2023 (Tuesday)**
+
+ 
+**Title:**  Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states.
+
+**Speaker:**  Martina Gisti (AG Luitz)
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+Tensor Network states (TNS) are effective representations of states describing low-dimensional complex many-body systems. In one-dimensional systems these variational states are successfully used in many algorithms, but in two dimensions it becomes difficult to exploit them to elaborate efficient algorithms.In this talk, a particular class of recently introduced isometric TNS (isoTNS) will be presented, through which successful numerical implementations are realized. As an interesting application, I will discuss recent results showing how to efficiently represent finite temperature states with isoTNS with low computational complexity.
+</details>
+
+
+ # Past Talks
+
+**14. April 18, 2023 (Tuesday)**
+
+ 
+**Title:** Alleviating the Sign Problem via Contour Deformation
+
+**Speaker:**  Prof. Tom C. Luu (Julich)
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+I discuss my current research in using contour deformations to alleviate the numerical sign problem in stochastic simulations.  I consider deformations of various forms, ranging from simple constant offsets to those that approximate so-called Lefschetz thimbles--high-dimensional manifolds that have, in principle, no sign problem.  In the latter case I show how machine learning can be used to approximate such manifolds.  I apply these deformations to investigate low-D doped Hubbard model in various geometries.
+</details>
+
 
 **13. April 11, 2023 (Tuesday)**
 
@@ -30,40 +64,11 @@ or: How to measure Eulers constant
 
 
 
-**14. April 18, 2023 (Tuesday)**
-
- 
-**Title:** TBA
-
-**Speaker:**  Prof. Tom C. Luu (Julich)
-
-**Abstract:** 
 
 
-<details open>
-<summary> </summary>
-<br>  
-TBA
-</details>
 
 
-**15. April 25, 2023 (Tuesday)**
 
- 
-**Title:** TBA
-
-**Speaker:**  Martina Gisti (AG Luitz)
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  
-TBA
-</details>
-
-
- # Past Talks
 
  **12. February 22, 2023 (Wednesday)**
 
