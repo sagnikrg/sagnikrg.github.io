@@ -12,6 +12,8 @@
 **Title:**  Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states.
 
 **Speaker:**  Martina Gisti (AG Luitz)
+
+
 **Abstract:** 
 
 
