@@ -6,9 +6,81 @@
 
 # Upcoming Schedule:
 
-**15. April 25, 2023 (Tuesday)**
+**17. May 09, 2023 (Tuesday)**
 
  
+**Title:**  Spectral Properties of the Dimerized Fermi Hubbard Model
+
+**Speaker:**  Karin Haderlein (AG Kollath)
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+In this talk I am going to present the topic of my master thesis. By examining the properties of a model’s level statistics we are able to conclude whether we can expect the system to thermalize or not. For this a thorough understanding of the underlying symmetries of the model is necessary. Therefore, we discuss the symmetries of the dimerized Fermi Hubbard model and how to generate its spectrum divided into symmetry sectors using exact diagonalization. The resulting properties of the level statistics are analysed for different parameters of the model where we find GOE characteristics in all expected symmetry subsectors. Thus, the dimerized Fermi Hubbard model is expected to be thermalized.
+</details>
+
+**18. May 16, 2023 (Tuesday)**
+
+ 
+**Title:**  TBA
+
+**Speaker:**  Prof. Carsten Urbach
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  TBA
+</details>
+
+
+**19. May 23, 2023 (Tuesday)**
+
+ 
+**Title:**  TBA
+
+**Speaker:**  Maurits Tepaske (AG Luitz)
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  TBA
+</details>
+
+
+
+**20. May 30, 2023 (Tuesday)**
+
+ 
+**Title:**  TBA
+
+**Speaker:**  Dr. Andrea Bergschneider
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  TBA
+</details>
+
+
+
+
+ # Past Talks
+
+**15. May 23, 2023 (Tuesday)**
+
 **Title:**  Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states.
 
 **Speaker:**  Martina Gisti (AG Luitz)
@@ -24,7 +96,7 @@ Tensor Network states (TNS) are effective representations of states describing l
 </details>
 
 
- # Past Talks
+
 
 **14. April 18, 2023 (Tuesday)**
 
