@@ -6,22 +6,6 @@
 
 # Upcoming Schedule:
 
-**17. May 09, 2023 (Tuesday)**
-
- 
-**Title:**  Spectral Properties of the Dimerized Fermi Hubbard Model
-
-**Speaker:**  Karin Haderlein (AG Kollath)
-
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  
-In this talk I am going to present the topic of my master thesis. By examining the properties of a model’s level statistics we are able to conclude whether we can expect the system to thermalize or not. For this a thorough understanding of the underlying symmetries of the model is necessary. Therefore, we discuss the symmetries of the dimerized Fermi Hubbard model and how to generate its spectrum divided into symmetry sectors using exact diagonalization. The resulting properties of the level statistics are analysed for different parameters of the model where we find GOE characteristics in all expected symmetry subsectors. Thus, the dimerized Fermi Hubbard model is expected to be thermalized.
-</details>
 
 **18. May 16, 2023 (Tuesday)**
 
@@ -78,6 +62,25 @@ In this talk I am going to present the topic of my master thesis. By examining t
 
 
  # Past Talks
+
+
+**17. May 09, 2023 (Tuesday)**
+
+ 
+**Title:**  Spectral Properties of the Dimerized Fermi Hubbard Model
+
+**Speaker:**  Karin Haderlein (AG Kollath)
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+In this talk I am going to present the topic of my master thesis. By examining the properties of a model’s level statistics we are able to conclude whether we can expect the system to thermalize or not. For this a thorough understanding of the underlying symmetries of the model is necessary. Therefore, we discuss the symmetries of the dimerized Fermi Hubbard model and how to generate its spectrum divided into symmetry sectors using exact diagonalization. The resulting properties of the level statistics are analysed for different parameters of the model where we find GOE characteristics in all expected symmetry subsectors. Thus, the dimerized Fermi Hubbard model is expected to be thermalized.
+</details>
+
 
 **15. May 23, 2023 (Tuesday)**
 
