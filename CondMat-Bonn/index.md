@@ -7,7 +7,7 @@
 # Upcoming Schedule:
 
 
-**18. May 16, 2023 (Tuesday)**
+**18. May 23, 2023 (Tuesday)**
 
  
 **Title:**  TBA
@@ -24,7 +24,7 @@
 </details>
 
 
-**19. May 23, 2023 (Tuesday)**
+**19. June 06, 2023 (Tuesday)**
 
  
 **Title:**  TBA
@@ -42,7 +42,7 @@
 
 
 
-**20. May 30, 2023 (Tuesday)**
+**20. June 13, 2023 (Tuesday)**
 
  
 **Title:**  TBA
