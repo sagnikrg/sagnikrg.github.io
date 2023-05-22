@@ -10,7 +10,7 @@
 **18. May 23, 2023 (Tuesday)**
 
  
-**Title:**  TBA
+**Title:**  Hamiltonian approach to lattice gauge theories with digitised gauge fields
 
 **Speaker:**  Prof. Carsten Urbach
 
@@ -20,7 +20,14 @@
 
 <details open>
 <summary> </summary>
-<br>  TBA
+<br>  With the advent of quantum computing and rapidly developing tensor
+network methods also the simulation of quantum chromodynamics with
+such technologies comes into reach. This requires the restriction of
+the well known Kogut-Susskind Hamiltonian for lattice gauge theories
+to a finite dimensional Hilbert space, which can be achieved by
+digitising the gauge fields. In this presentation we discuss one
+approach for doing so for the gauge group SU(2) based on partitionings
+of the gauge group.
 </details>
 
 
@@ -60,8 +67,7 @@
 
 
 
-
- # Past Talks
+# Past Talks
 
 
 **17. May 09, 2023 (Tuesday)**
