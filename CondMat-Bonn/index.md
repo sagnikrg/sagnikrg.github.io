@@ -7,17 +7,15 @@
 We are now in the second year of the Journal Club. Details about talks from the previous season can be found here. 
 
 
-[Season 1: WiSe22-Sose2024](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)
+[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)
 
 ## Talks This Season:
 
 
 | Speakers              | Date | Title |
 | :---------------- | :------ | :---- |
-| Dr. Franco Lisandrini (AG Kollath) | October 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations 
-
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Franco_Slides.pdf)] 
-[[Abstract](https://...#abs_franco)]
+| Dr. Franco Lisandrini (AG Kollath) | October 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations \ [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Franco_Slides.pdf)], 
+[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/#abs_franco)]
 |
 | Kriti Baweja (AG Luitz) | November 08, 2023 (Wednesday)| TBA|
 | Dr. Sayak Ray (AG Kroha)| December 06, 2023 (Wednesday)|   TBA|
