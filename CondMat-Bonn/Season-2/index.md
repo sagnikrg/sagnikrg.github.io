@@ -18,8 +18,8 @@ We are now in the second year of the Journal Club. Details about talks from the 
 | :---------------- | :------ | :---- |
 | **1.** Dr. Franco Lisandrini (AG Kollath) | October 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Franco_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_franco)] |
-| Kriti Baweja (AG Luitz) | November 08, 2023 (Wednesday)| TBA| 
-| Dr. Sayak Ray (AG Kroha)| December 06, 2023 (Wednesday)|   TBA|
+| Kriti Baweja (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif) | November 08, 2023 (Wednesday)| TBA| 
+| Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   TBA|
 
 ## Details of Talks:
 
