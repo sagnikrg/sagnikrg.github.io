@@ -1,5 +1,4 @@
-## The Bonn Journal Club on Condendensed Matter Theory
-## Physikalisches Institut, Uni Bonn
+## The Bonn Journal Club on Condendensed Matter Theory, \ Physikalisches Institut, Uni Bonn
 
 ![Thumbnail](institutelogo.png)
 ![Thumbnail](logo.png)
@@ -7,9 +6,9 @@
 We are now in the second year of the Journal Club. Details about talks from the previous season can be found here. 
 
 
-[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)
-
+[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)\
 [Season 2: WiSe23-SoSe24](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/)
+
 
 
 ## Talks This Season:
