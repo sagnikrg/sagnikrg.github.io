@@ -4,6 +4,11 @@
 ![Thumbnail](institutelogo.png)
 ![Thumbnail](logo.png)
 
+We are now in the second year of the Journal Club. Details about talks from the previous season can be found here. 
+
+
+[[Season 1: WiSe22-Sose2024](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)]
+
 # Upcoming Talks:
 
 
