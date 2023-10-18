@@ -2,7 +2,7 @@
 # Physikalisches Institut, Uni Bonn
 
 ![Thumbnail](institutelogo.png)
-
+![Thumbnail](logo.png)
 
 # Past Talks:
 
