@@ -9,12 +9,19 @@
 
 | Speakers              | Date | Title |
 | :---------------- | :------ | :---- |
-| Dr. Franco Lisandrini (AG Kollath)       |   October 18, 2023 (Wednesday)   | Partially disordered Hiesenberg antiferromagnet with short range stripe correlations
+| Kriti Baweja (AG Luitz)       
+| November 08, 2023 (Wednesday)   
+| TBA
 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
 
+| Dr. Sayak Ray (AG Kroha)       
+| December 06, 2023 (Wednesday)   
+| TBA
+|
+
+# Past Talks:
+
+Here is a list of all the past talks. Details about them, e.g. abstract etc, can be found after the list and are arranged in order of apperances. 
  
 **1. October 18, 2023 (Wednesday)**
 
@@ -32,13 +39,7 @@
 </details>
 
 
-| Speakers              | Date | Title |
-| :---------------- | :------ | :---- |
-| Dr. Franco Lisandrini (AG Kollath)       |   October 18, 2023 (Wednesday)   | Partially disordered Hiesenberg antiferromagnet with short range stripe correlations
- |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+
 
  
 
