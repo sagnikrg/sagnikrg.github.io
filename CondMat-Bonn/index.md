@@ -25,6 +25,7 @@ We are now in the second year of the Journal Club. Details about talks from the 
  
 **1. October 18, 2023 (Wednesday)**
 
+<img src="Franco.jpg" height="400"> 
  
 **Title:**  Partially disordered Hiesenberg antiferromagnet with short range stripe correlations
 
