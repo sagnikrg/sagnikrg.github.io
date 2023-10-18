@@ -12,7 +12,7 @@ We are now in the second year of the Journal Club. Details about talks from the 
 ## Talks This Season:
 
 
-| Speakers              | Date | Title |
+| Speaker              | Date | Title |
 | :---------------- | :------ | :---- |
 | Dr. Franco Lisandrini (AG Kollath) | October 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations \ [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Franco_Slides.pdf)], 
 [[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/#abs_franco)]
