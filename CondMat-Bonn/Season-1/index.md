@@ -6,8 +6,7 @@
 
 This page now functions as the archive for the season 1 talks. Other Seasons can be accessed from here.
 
-[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)
-
+[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)\
 [Season 2: WiSe23-SoSe24](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/)
 
 ## Talks This Season:
