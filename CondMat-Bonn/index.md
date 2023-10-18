@@ -23,6 +23,14 @@
 </details>
 
 
+| Speakers              | Date | Title |
+| :---------------- | :------: | ----: |
+| Dr. Franco Lisandrini (AG Kollath)       |   October 18, 2023 (Wednesday)   | Partially disordered Hiesenberg antiferromagnet with short range stripe correlations
+ |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
  
 
 
