@@ -14,19 +14,17 @@ We are now in the second year of the Journal Club. Details about talks from the 
 
 | Speakers              | Date | Title |
 | :---------------- | :------ | :---- |
-| Kriti Baweja (AG Luitz)       
-| November 08, 2023 (Wednesday)   
-| TBA
-|
-
-| Dr. Sayak Ray (AG Kroha)       
-| December 06, 2023 (Wednesday)   
-| TBA
-|
+| Kriti Baweja (AG Luitz) | November 08, 2023 (Wednesday)| TBA|
+| Dr. Sayak Ray (AG Kroha)| December 06, 2023 (Wednesday)|   TBA|
 
 # Past Talks:
 
 Here is a list of all the past talks. Details about them, e.g. abstract etc, can be found after the list and are arranged in order of apperances. 
+
+| Speakers              | Date | Title |
+| :---------------- | :------ | :---- |
+| Dr. Franco Lisandrini (AG Kollath) | NOctober 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations|
+
  
 **1. October 18, 2023 (Wednesday)**
 
