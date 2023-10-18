@@ -373,8 +373,8 @@ Topologically protected edge states, such as Majorana edge modes, have attracted
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.uni-bonn.de/event/189/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Franco-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Franco.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Franco-min.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)]
 
 
 **5. Movember 21, 2022 (Monday)**
@@ -405,7 +405,7 @@ Zero temperature properties are even less accessible: Neither the nature of the 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/171/](https://indico.hiskp.uni-bonn.de/event/171/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Robin-min.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Robin-min.pdf)]
 
 
 
@@ -432,8 +432,8 @@ Collaborators: N. Noirault (ENS Paris), B. Li (ENS Paris), A. C. Maggs (ESPCI Pa
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.uni-bonn.de/event/159/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Philipp-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Philipp.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Philipp-min.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)]
 
 
 
@@ -459,8 +459,8 @@ We study theoretically and experimentally the superfluid transport of ultracold 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.uni-bonn.de/event/156/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Anne-Maria-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Anne-Maria.pdf)]
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Anne-Maria-min.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Anne-Maria.pdf)]
 
 
 **2. October 26, 2022**
@@ -482,7 +482,7 @@ In this talk, I will discuss the dynamics of a system subjected to quasiperiodic
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
 
 
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Sayak.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Sayak.pdf)]
 
 
 
@@ -504,8 +504,8 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/146/](https://indico.hiskp.uni-bonn.de/event/146/)
 
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Slides-Marvin.pdf)],
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Marvin.pdf)],
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster.pdf)]
 
 
 ![Thumbnail](logo.png)
