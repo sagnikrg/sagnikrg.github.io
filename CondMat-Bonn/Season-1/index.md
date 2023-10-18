@@ -24,6 +24,27 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_philipp)] |
 | 5. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 5. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 6. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 7. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 8. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 9. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 10. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| 11. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+
+
+
+
+
+
+
 
 
 
@@ -155,6 +176,200 @@ Zero temperature properties are even less accessible: Neither the nature of the 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/171/](https://indico.hiskp.uni-bonn.de/event/171/)
 
 [[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Robin-min.pdf)]
+
+
+
+**6. December 1, 2022 (Thursday)**
+
+<img src="Franco.jpg" height="400"> 
+
+
+**Title:** Majorana edge-modes in a spinful particle conserving model
+
+**Speaker:**   Dr. Franco Thomas Lisandrini (AG Kollath)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+
+Topologically protected edge states, such as Majorana edge modes, have attracted a lot of attention over the past. The interest in Majorana modes is motivated by curiosity to observe and understand these fundamental quasi-particles, but also by the key role such modes play in several quantum information protocols. One important model which covers Majorana zero modes was proposed by Kitaev in 2001. It consists of a single chain of spinless fermions where the number of fermions in the system is not conserved. In spinless systems, people found that ground states supporting Majorana edge modes are present also in particle-number conserving settings. In this talk we will show the presence of Majorana edge modes in an interacting fermionic ladder with spin in a number conserved setting. The main result of the present work is that the topological phase is robust for a finite region in the parameter space in the presence of interactions.
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.uni-bonn.de/event/189/)
+
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Franco-min.pdf)]
+[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)]
+
+
+
+
+
+**7. December 8, 2022 (Thursday)**
+
+<img src="Sagnik.jpg" height="400"> 
+
+**Title:** Absorbing State Transitions in Monitored Systems
+
+**Speaker:**  Sagnik Ghosh (AG Luitz)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+
+In this talk I will start with briefly reviewing the recent literature on the phenomena of Measurement Induced Phase Transitions in Unitary systems punctuated with projection operators. The criticality in these systems is however only visible in particular trajectories and the ensemble averaged density matrix is featureless and often maximally scrambled. This makes their experimental realization exponentially difficult, as one ought to build an ensemble of the exact measurement realizations, dimensions of which scales exponentially, a problem which is formally known as post-selection. With these foundations, in the remainder I will discuss a last week Arxiv paper by Vedika Khemani et. al. that attempts to find an alternate absorbing criticality in the punctuated systems that does not suffer from post selection and hence is claimed to be a more suitable candidate for experimental realization.
+
+ 
+ 
+ 
+ 
+
+Reference: Entanglement and Absorbing-State Transitions in Interactive Quantum Dynamics.
+O'Dea N, Morningstar A, Gopalakrishnan S, Khemani V.
+ArXiv:2211.12526. (22 Nov 2022.)
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/190/](https://indico.hiskp.uni-bonn.de/event/190/)
+
+Slides:
+
+<iframe src="https://slides.com/sagnikghosh-1/numerical-models-in-cond-mat-physics-267d5a/embed" width="576" height="420" title="Absorbing Transitions" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+**8. December 14, 2022 (Wednesday)**
+
+ <img src="Micha.jpg" height="400"> 
+
+
+
+**Title:** Methods for Slave-Particles in Non-Equilibrium
+
+**Speaker:**  Michael Kajan (AG Kroha)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+The generall description of non-equilibrium system in a QFT framework has been known for quite some time now [Keldysh 64, Schwinger 61, Feynman Vernon 63] but its application were rather limited due to computational cost and experimental relevance. In the last few decades interest was sparked again due to experimental advances in open and driven quantum system. We will give here an introduction to the framework of the Schwinger-Keldysh formalism in an Green function approach.
+
+We focus on bosonic systems, which may show spontaneously broken symmetry requiring anself consistent approximation scheme. To this end we will introduce the 2-PI effective action [Cornwall, Jackiw, Tomboulis 74] [Berges 05]. As an example system we consider dye-molecules coupled to cavity photons using a slave-particle method, which has been used as impurity solver in heavy fermion systems for quite some time now [Coleman 84]. We show how their concept can be extended to a wide range of physical systems and implemented in an non-equilibrium framework.
+
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.uni-bonn.de/event/198/)
+
+[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Micha-min.pdf)]
+
+
+
+**9. February 1, 2023 (Wednesday)**
+
+
+
+ 
+**Title:** Fast Time-Evolution of Matrix-Product States using the QR decomposition
+
+**Speaker:** Prof. David Luitz
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+This talk discusses the following paper by Jakob Unfried, Johannes Hauschild, and Frank Pollmann. The abstract of the same is attached below.
+
+ 
+
+Link to paper: https://arxiv.org/abs/2212.09782
+
+ 
+
+Abstract from the paper:
+
+We propose and benchmark a modified time evolution block decimation (TEBD) algorithm that uses a truncation scheme based on the QR decomposition instead of the singular value decomposition (SVD). The modification reduces the scaling with the dimension of the physical Hilbert space d from d3 down to d2. Moreover, the QR decomposition has a lower computational complexity than the SVD and allows for highly efficient implementations on GPU hardware. In a benchmark simulation of a global quench in a quantum clock model, we observe a speedup of up to three orders of magnitude comparing QR and SVD based updates on an A100 GPU.
+
+
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/251](https://indico.hiskp.uni-bonn.de/event/251/)
+
+
+**10. February 8, 2023 (Wednesday)**
+
+ 
+
+
+**Title:** Study of quantum impurity problems in the framework of natural orbitals
+
+**Speaker:**  Maxime Debertolis (AG Luitz)
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
+
+
+
+
+
+**11. February 16, 2023 (Thursday)**
+
+ 
+
+
+**Title:** Towards overcoming the sign problem with tensor networks and quantum computing
+
+**Speaker:**  Prof. Lena Funcke 
+
+**Abstract:** 
+
+
+<details open>
+<summary></summary>
+<br>  
+
+In this talk, I will discuss recent advances towards overcoming the sign problem of Monte Carlo simulations. There are several parameter regimes of lattice quantum field theory that cannot be simulated with conventional Monte Carlo methods, including topological terms, non-zero baryon density, and real-time dynamics. At the example of (1+1)-dimensional benchmark models, I will discuss new directions towards overcoming these problems, based on tensor networks and quantum computing. Finally, I will comment on the requirements to integrate these methods into (3+1)-dimensional lattice simulations in the future, focusing on Lattice QCD.
+
+
+ 
+
+</details>
+
+Indico Link: [https://indico.hiskp.uni-bonn.de/event/256](https://indico.hiskp.uni-bonn.de/event/256/)
+
+
+
+
+
+
 
 
 
@@ -338,200 +553,6 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.u
 
  
  
-**11. February 16, 2023 (Thursday)**
-
- 
-
-
-**Title:** Towards overcoming the sign problem with tensor networks and quantum computing
-
-**Speaker:**  Prof. Lena Funcke 
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-In this talk, I will discuss recent advances towards overcoming the sign problem of Monte Carlo simulations. There are several parameter regimes of lattice quantum field theory that cannot be simulated with conventional Monte Carlo methods, including topological terms, non-zero baryon density, and real-time dynamics. At the example of (1+1)-dimensional benchmark models, I will discuss new directions towards overcoming these problems, based on tensor networks and quantum computing. Finally, I will comment on the requirements to integrate these methods into (3+1)-dimensional lattice simulations in the future, focusing on Lattice QCD.
-
-
- 
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/256](https://indico.hiskp.uni-bonn.de/event/256/)
-
-
-**10. February 8, 2023 (Wednesday)**
-
- 
-
-
-**Title:** Study of quantum impurity problems in the framework of natural orbitals
-
-**Speaker:**  Maxime Debertolis (AG Luitz)
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-I will present the work of my PhD thesis, in which quantum impurity problems are tackled with the use of natural orbitals, a representation rooted in the framework of quantum chemistry. From the inherent simplicity of these problems under this representation, a new algorithm is developed to generate an optimized few-body wavefunction, which surpasses usual ground state computations. In the first place, the algorithm is used to compute the screening cloud in large one-dimensional chains and in a 2D square lattice coupled to a localized atom. Then, a statistical study on large systems is performed, in which the the fate of the correlation cloud spreading into the disordered electronic bath is investigated.
-
- 
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/258](https://indico.hiskp.uni-bonn.de/event/258/)
-
-
-
-
-
-**9. February 1, 2023 (Wednesday)**
-
-
-
- 
-**Title:** Fast Time-Evolution of Matrix-Product States using the QR decomposition
-
-**Speaker:** Prof. David Luitz
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-This talk discusses the following paper by Jakob Unfried, Johannes Hauschild, and Frank Pollmann. The abstract of the same is attached below.
-
- 
-
-Link to paper: https://arxiv.org/abs/2212.09782
-
- 
-
-Abstract from the paper:
-
-We propose and benchmark a modified time evolution block decimation (TEBD) algorithm that uses a truncation scheme based on the QR decomposition instead of the singular value decomposition (SVD). The modification reduces the scaling with the dimension of the physical Hilbert space d from d3 down to d2. Moreover, the QR decomposition has a lower computational complexity than the SVD and allows for highly efficient implementations on GPU hardware. In a benchmark simulation of a global quench in a quantum clock model, we observe a speedup of up to three orders of magnitude comparing QR and SVD based updates on an A100 GPU.
-
-
-
- 
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/251](https://indico.hiskp.uni-bonn.de/event/251/)
-
-
-**8. December 14, 2022 (Wednesday)**
-
- <img src="Micha.jpg" height="400"> 
-
-
-
-**Title:** Methods for Slave-Particles in Non-Equilibrium
-
-**Speaker:**  Michael Kajan (AG Kroha)
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-The generall description of non-equilibrium system in a QFT framework has been known for quite some time now [Keldysh 64, Schwinger 61, Feynman Vernon 63] but its application were rather limited due to computational cost and experimental relevance. In the last few decades interest was sparked again due to experimental advances in open and driven quantum system. We will give here an introduction to the framework of the Schwinger-Keldysh formalism in an Green function approach.
-
-We focus on bosonic systems, which may show spontaneously broken symmetry requiring anself consistent approximation scheme. To this end we will introduce the 2-PI effective action [Cornwall, Jackiw, Tomboulis 74] [Berges 05]. As an example system we consider dye-molecules coupled to cavity photons using a slave-particle method, which has been used as impurity solver in heavy fermion systems for quite some time now [Coleman 84]. We show how their concept can be extended to a wide range of physical systems and implemented in an non-equilibrium framework.
-
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.uni-bonn.de/event/198/)
-
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Micha-min.pdf)]
-
-
-
-
-
-
-**7. December 8, 2022 (Thursday)**
-
-<img src="Sagnik.jpg" height="400"> 
-
-**Title:** Absorbing State Transitions in Monitored Systems
-
-**Speaker:**  Sagnik Ghosh (AG Luitz)
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-
-In this talk I will start with briefly reviewing the recent literature on the phenomena of Measurement Induced Phase Transitions in Unitary systems punctuated with projection operators. The criticality in these systems is however only visible in particular trajectories and the ensemble averaged density matrix is featureless and often maximally scrambled. This makes their experimental realization exponentially difficult, as one ought to build an ensemble of the exact measurement realizations, dimensions of which scales exponentially, a problem which is formally known as post-selection. With these foundations, in the remainder I will discuss a last week Arxiv paper by Vedika Khemani et. al. that attempts to find an alternate absorbing criticality in the punctuated systems that does not suffer from post selection and hence is claimed to be a more suitable candidate for experimental realization.
-
- 
- 
- 
- 
-
-Reference: Entanglement and Absorbing-State Transitions in Interactive Quantum Dynamics.
-O'Dea N, Morningstar A, Gopalakrishnan S, Khemani V.
-ArXiv:2211.12526. (22 Nov 2022.)
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/190/](https://indico.hiskp.uni-bonn.de/event/190/)
-
-Slides:
-
-<iframe src="https://slides.com/sagnikghosh-1/numerical-models-in-cond-mat-physics-267d5a/embed" width="576" height="420" title="Absorbing Transitions" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-
-
-
-
-**6. December 1, 2022 (Thursday)**
-
-<img src="Franco.jpg" height="400"> 
-
-
-**Title:** Majorana edge-modes in a spinful particle conserving model
-
-**Speaker:**   Dr. Franco Thomas Lisandrini (AG Kollath)
-
-**Abstract:** 
-
-
-<details open>
-<summary></summary>
-<br>  
-
-
-Topologically protected edge states, such as Majorana edge modes, have attracted a lot of attention over the past. The interest in Majorana modes is motivated by curiosity to observe and understand these fundamental quasi-particles, but also by the key role such modes play in several quantum information protocols. One important model which covers Majorana zero modes was proposed by Kitaev in 2001. It consists of a single chain of spinless fermions where the number of fermions in the system is not conserved. In spinless systems, people found that ground states supporting Majorana edge modes are present also in particle-number conserving settings. In this talk we will show the presence of Majorana edge modes in an interacting fermionic ladder with spin in a number conserved setting. The main result of the present work is that the topological phase is robust for a finite region in the parameter space in the presence of interactions.
-
-</details>
-
-Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.uni-bonn.de/event/189/)
-
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Franco-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)]
-
-
-
-
-
 
 
 
