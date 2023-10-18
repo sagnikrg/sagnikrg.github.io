@@ -4,10 +4,9 @@
 ![Thumbnail](institutelogo.png)
 ![Thumbnail](logo.png)
 
-We are now in the second year of the Journal Club. Details about talks from the previous season can be found here. 
+This page now functions as the archive for the season 1 talks. Other Seasons can be accessed from here.
 
-
-[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)
+[Season 2: WiSe23-SoSe24](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/)
 
 ## Talks This Season:
 
