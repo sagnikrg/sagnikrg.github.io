@@ -1,5 +1,5 @@
-# The Bonn Journal Club on Condendensed Matter Theory
-# Physikalisches Institut, Uni Bonn
+## The Bonn Journal Club on Condendensed Matter Theory
+## Physikalisches Institut, Uni Bonn
 
 ![Thumbnail](institutelogo.png)
 ![Thumbnail](logo.png)
@@ -9,21 +9,16 @@ We are now in the second year of the Journal Club. Details about talks from the 
 
 [[Season 1: WiSe22-Sose2024](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)]
 
-# Upcoming Talks:
+## Talks This Season:
 
-
-| Speakers              | Date | Title |
-| :---------------- | :------ | :---- |
-| Kriti Baweja (AG Luitz) | November 08, 2023 (Wednesday)| TBA|
-| Dr. Sayak Ray (AG Kroha)| December 06, 2023 (Wednesday)|   TBA|
-
-# Past Talks:
-
-Here is a list of all the past talks. Details about them, e.g. abstract etc, can be found after the list and are arranged in order of apperances. 
 
 | Speakers              | Date | Title |
 | :---------------- | :------ | :---- |
 | Dr. Franco Lisandrini (AG Kollath) | NOctober 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations|
+| Kriti Baweja (AG Luitz) | November 08, 2023 (Wednesday)| TBA|
+| Dr. Sayak Ray (AG Kroha)| December 06, 2023 (Wednesday)|   TBA|
+
+## Details of Talks:
 
  
 **1. October 18, 2023 (Wednesday)**
