@@ -25,31 +25,29 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_philipp)] |
 | **5.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **6.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **6.** Dr. Franco Thomas Lisandrini (AG Kollath) | December 1, 2022 (Thursday) | Majorana edge-modes in a spinful particle conserving model |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_franco)] |
+| **7.** Sagnik Ghosh (AG Luitz) |  December 8, 2022 (Thursday) | Absorbing State Transitions in Monitored Systems |
+| | |  [[Slides]()],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_sagnik)] |
+| **8.** Michael Kajan (AG Kroha) | December 14, 2022 (Wednesday) | Methods for Slave-Particles in Non-Equilibrium |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_micha)] |
+| **9.** Prof. David Luitz | February 1, 2023 (Wednesday) | TFast Time-Evolution of Matrix-Product States using the QR decomposition |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **7.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **10.** Maxime Debertolis (AG Luitz) | February 8, 2023 (Wednesday) | Study of quantum impurity problems in the framework of natural orbitals |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **8.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **11.** Prof. Lena Funcke  | February 16, 2023 (Thursday) | Towards overcoming the sign problem with tensor networks and quantum computing |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **9.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **12.** Dr. Neda Ahamadi (AG Kollath) | February 22, 2023 (Wednesday) | Dissipative symmetry-protected topological order |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **10.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **13.** Prof. Dr. Johann Kroha | April 11, 2023 (Tuesday) | Kondo breakdown in Kondo lattice systems: RKKY versus local spin screening, or: How to measure Eulers constant |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **11.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **14.** Prof. Tom C. Luu (Julich) | April 18, 2023 (Tuesday) | Alleviating the Sign Problem via Contour Deformation |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **12.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **15.** Martina Gisti (AG Luitz) | May 23, 2023 (Tuesday) | Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **13.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **17.** Karin Haderlein (AG Kollath) |  May 09, 2023 (Tuesday) | TSpectral Properties of the Dimerized Fermi Hubbard Model |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **14.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **15.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **16.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **17.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| **18.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **18.** Prof. Carsten Urbach | May 23, 2023 (Tuesday) | Hamiltonian approach to lattice gauge theories with digitised gauge fields |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 
 
