@@ -11,6 +11,9 @@ We are now in the second year of the Journal Club. Details about talks from the 
 
 
 
+![Alt Text](https://web.archive.org/web/20091027035613/http://geocities.com/sjfarthing/graphics/any_browser_computer.gif)
+
+
 ## Talks This Season:
 
 
