@@ -8,6 +8,14 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 [Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)\
 [Season 2: WiSe23-SoSe24](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/)
 
+**Caution:** 
+
+![Alt Text](https://web.archive.org/web/20090829162255/http://geocities.com/Colosseum/Lodge/9961/coming_soon.gif)
+
+
+This page is still being updated from backend to match the new template. Some Links may malfunction.
+
+
 ## Talks This Season:
 
 
