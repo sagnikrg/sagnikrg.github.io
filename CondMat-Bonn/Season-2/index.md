@@ -1,4 +1,5 @@
-## The Bonn Journal Club on Condendensed Matter Theory, \ Physikalisches Institut, Uni Bonn
+## The Bonn Journal Club on Condendensed Matter Theory
+## Physikalisches Institut, Uni Bonn
 
 ![Thumbnail](institutelogo.png)
 ![Thumbnail](logo.png)
