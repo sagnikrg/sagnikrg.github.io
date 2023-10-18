@@ -37,6 +37,20 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **11.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **12.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **13.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **14.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **15.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **16.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **17.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| **18.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 
 
 
@@ -369,156 +383,6 @@ Indico Link: [https://indico.hiskp.uni-bonn.de/event/256](https://indico.hiskp.u
 
 
 
-
-
-
-
-**18. May 23, 2023 (Tuesday)**
-
- 
-**Title:**  Hamiltonian approach to lattice gauge theories with digitised gauge fields
-
-**Speaker:**  Prof. Carsten Urbach
-
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  With the advent of quantum computing and rapidly developing tensor
-network methods also the simulation of quantum chromodynamics with
-such technologies comes into reach. This requires the restriction of
-the well known Kogut-Susskind Hamiltonian for lattice gauge theories
-to a finite dimensional Hilbert space, which can be achieved by
-digitising the gauge fields. In this presentation we discuss one
-approach for doing so for the gauge group SU(2) based on partitionings
-of the gauge group.
-</details>
-
-
-**19. June 06, 2023 (Tuesday)**
-
- 
-**Title:**  TBA
-
-**Speaker:**  Maurits Tepaske (AG Luitz)
-
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  TBA
-</details>
-
-
-
-**20. June 13, 2023 (Tuesday)**
-
- 
-**Title:**  TBA
-
-**Speaker:**  Dr. Andrea Bergschneider
-
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  TBA
-</details>
-
-
-
-# Past Talks
-
-
-**17. May 09, 2023 (Tuesday)**
-
- 
-**Title:**  Spectral Properties of the Dimerized Fermi Hubbard Model
-
-**Speaker:**  Karin Haderlein (AG Kollath)
-
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  
-In this talk I am going to present the topic of my master thesis. By examining the properties of a model’s level statistics we are able to conclude whether we can expect the system to thermalize or not. For this a thorough understanding of the underlying symmetries of the model is necessary. Therefore, we discuss the symmetries of the dimerized Fermi Hubbard model and how to generate its spectrum divided into symmetry sectors using exact diagonalization. The resulting properties of the level statistics are analysed for different parameters of the model where we find GOE characteristics in all expected symmetry subsectors. Thus, the dimerized Fermi Hubbard model is expected to be thermalized.
-</details>
-
-
-**15. May 23, 2023 (Tuesday)**
-
-**Title:**  Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states.
-
-**Speaker:**  Martina Gisti (AG Luitz)
-
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  
-Tensor Network states (TNS) are effective representations of states describing low-dimensional complex many-body systems. In one-dimensional systems these variational states are successfully used in many algorithms, but in two dimensions it becomes difficult to exploit them to elaborate efficient algorithms.In this talk, a particular class of recently introduced isometric TNS (isoTNS) will be presented, through which successful numerical implementations are realized. As an interesting application, I will discuss recent results showing how to efficiently represent finite temperature states with isoTNS with low computational complexity.
-</details>
-
-
-
-
-**14. April 18, 2023 (Tuesday)**
-
- 
-**Title:** Alleviating the Sign Problem via Contour Deformation
-
-**Speaker:**  Prof. Tom C. Luu (Julich)
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  
-I discuss my current research in using contour deformations to alleviate the numerical sign problem in stochastic simulations.  I consider deformations of various forms, ranging from simple constant offsets to those that approximate so-called Lefschetz thimbles--high-dimensional manifolds that have, in principle, no sign problem.  In the latter case I show how machine learning can be used to approximate such manifolds.  I apply these deformations to investigate low-D doped Hubbard model in various geometries.
-</details>
-
-
-**13. April 11, 2023 (Tuesday)**
-
- 
-**Title:** Kondo breakdown in Kondo lattice systems: RKKY versus local spin screening,
-or: How to measure Eulers constant
-
-
-**Speaker:**  Prof. Dr. Johann Kroha
-
-**Abstract:** 
-
-
-<details open>
-<summary> </summary>
-<br>  
-
- The RKKY interaction is a coupling between magnetic impurities in a metal mediated over large distances by the conduction electrons. Its interplay with the local Kondo spin singlet formation can induce quantum phase transitions (QPT) from a heavy Fermi liquid to magnetically ordered phases. However, the RKKY interaction has escaped a systematical treatment due to its indirect, long-range nature. In this talk we discuss an analytic 1-loop renormalization group (RG ) treatment of Kondo breakdown under the influence of the RKKY interaction. Its long-range nature is self-consistently incorporated in the RG in the spirit of a dynamical mean-field theory. The theory predicts a universal suppression of the Kondo scale at the QPT in agreement with experiments on two-impurity Kondo systems. It suggests a rather complicated way for "measuring" Euler's constant.
-
-
-</details>
-
-
-
-
-
-
-
-
-
  **12. February 22, 2023 (Wednesday)**
 
  
@@ -550,7 +414,146 @@ In this work, we investigate the interplay between dissipation and symmetry-prot
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/257](https://indico.hiskp.uni-bonn.de/event/257/)
 
 
+
+
+**13. April 11, 2023 (Tuesday)**
+
  
+**Title:** Kondo breakdown in Kondo lattice systems: RKKY versus local spin screening,
+or: How to measure Eulers constant
+
+
+**Speaker:**  Prof. Dr. Johann Kroha
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+
+ The RKKY interaction is a coupling between magnetic impurities in a metal mediated over large distances by the conduction electrons. Its interplay with the local Kondo spin singlet formation can induce quantum phase transitions (QPT) from a heavy Fermi liquid to magnetically ordered phases. However, the RKKY interaction has escaped a systematical treatment due to its indirect, long-range nature. In this talk we discuss an analytic 1-loop renormalization group (RG ) treatment of Kondo breakdown under the influence of the RKKY interaction. Its long-range nature is self-consistently incorporated in the RG in the spirit of a dynamical mean-field theory. The theory predicts a universal suppression of the Kondo scale at the QPT in agreement with experiments on two-impurity Kondo systems. It suggests a rather complicated way for "measuring" Euler's constant.
+
+
+</details>
+
+
+**14. April 18, 2023 (Tuesday)**
+
+ 
+**Title:** Alleviating the Sign Problem via Contour Deformation
+
+**Speaker:**  Prof. Tom C. Luu (Julich)
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+I discuss my current research in using contour deformations to alleviate the numerical sign problem in stochastic simulations.  I consider deformations of various forms, ranging from simple constant offsets to those that approximate so-called Lefschetz thimbles--high-dimensional manifolds that have, in principle, no sign problem.  In the latter case I show how machine learning can be used to approximate such manifolds.  I apply these deformations to investigate low-D doped Hubbard model in various geometries.
+</details>
+
+
+
+**15. May 23, 2023 (Tuesday)**
+
+**Title:**  Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states.
+
+**Speaker:**  Martina Gisti (AG Luitz)
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+Tensor Network states (TNS) are effective representations of states describing low-dimensional complex many-body systems. In one-dimensional systems these variational states are successfully used in many algorithms, but in two dimensions it becomes difficult to exploit them to elaborate efficient algorithms.In this talk, a particular class of recently introduced isometric TNS (isoTNS) will be presented, through which successful numerical implementations are realized. As an interesting application, I will discuss recent results showing how to efficiently represent finite temperature states with isoTNS with low computational complexity.
+</details>
+ 
+
+**17. May 09, 2023 (Tuesday)**
+
+ 
+**Title:**  Spectral Properties of the Dimerized Fermi Hubbard Model
+
+**Speaker:**  Karin Haderlein (AG Kollath)
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  
+In this talk I am going to present the topic of my master thesis. By examining the properties of a model’s level statistics we are able to conclude whether we can expect the system to thermalize or not. For this a thorough understanding of the underlying symmetries of the model is necessary. Therefore, we discuss the symmetries of the dimerized Fermi Hubbard model and how to generate its spectrum divided into symmetry sectors using exact diagonalization. The resulting properties of the level statistics are analysed for different parameters of the model where we find GOE characteristics in all expected symmetry subsectors. Thus, the dimerized Fermi Hubbard model is expected to be thermalized.
+</details>
+
+
+
+
+**18. May 23, 2023 (Tuesday)**
+
+ 
+**Title:**  Hamiltonian approach to lattice gauge theories with digitised gauge fields
+
+**Speaker:**  Prof. Carsten Urbach
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  With the advent of quantum computing and rapidly developing tensor
+network methods also the simulation of quantum chromodynamics with
+such technologies comes into reach. This requires the restriction of
+the well known Kogut-Susskind Hamiltonian for lattice gauge theories
+to a finite dimensional Hilbert space, which can be achieved by
+digitising the gauge fields. In this presentation we discuss one
+approach for doing so for the gauge group SU(2) based on partitionings
+of the gauge group.
+</details>
+
+
+
+<details open>
+<summary> </summary>
+<br>  TBA
+</details>
+
+
+
+**20. June 13, 2023 (Tuesday)**
+
+ 
+**Title:**  TBA
+
+**Speaker:**  Dr. Andrea Bergschneider
+
+
+**Abstract:** 
+
+
+<details open>
+<summary> </summary>
+<br>  TBA
+</details>
+
+
+
+# Past Talks
+
+
+
+
+
+
+
+
+
+
  
 
 
