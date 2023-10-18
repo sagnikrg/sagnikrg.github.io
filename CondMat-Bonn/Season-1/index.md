@@ -7,6 +7,7 @@
 This page now functions as the archive for the season 1 talks. Other Seasons can be accessed from here.
 
 [Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)
+
 [Season 2: WiSe23-SoSe24](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/)
 
 ## Talks This Season:
@@ -14,29 +15,27 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 
 | Speaker              | Date | Title |
 | :---------------- | :------ | :---- |
-| 1. Marvin Lenk (AG Kroha) | October 19, 2022 (Wednesday)| Heavy-Fermion Systems and Some Exotic Examples  |
+| **1.** Marvin Lenk (AG Kroha) | October 19, 2022 (Wednesday)| Heavy-Fermion Systems and Some Exotic Examples  |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Marvin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_marvin)] |
-| 2. Dr. Sayak Ray (AG Kroha) | October 26, 2022 (Wednesday)| Interacting spins under quasiperiodic drive  |
+| **2.** Dr. Sayak Ray (AG Kroha) | October 26, 2022 (Wednesday)| Interacting spins under quasiperiodic drive  |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Sayak.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_sayak)] |
-| 3. Dr Anne-Maria Johanna Visuri (AG Kollath) |  November 2, 2022 (Wednesday)| Superfluid transport through a dissipative quantum point contact  |
+| **3.** Dr Anne-Maria Johanna Visuri (AG Kollath) |  November 2, 2022 (Wednesday)| Superfluid transport through a dissipative quantum point contact  |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Anne-Maria.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_anne-maria)] |
-| 4. Philipp Höllmer (AG Monien) |  November 9, 2022 (Wednesday)| Bringing the power of Monte Carlo methods to long-range-interacting molecular systems  |
+| **4.** Philipp Höllmer (AG Monien) |  November 9, 2022 (Wednesday)| Bringing the power of Monte Carlo methods to long-range-interacting molecular systems  |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_philipp)] |
-| 5. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **5.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 5. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **6.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 6. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **7.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 7. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **8.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 8. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **9.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 9. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **10.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 10. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
-| 11. Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
+| **11.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 
 
