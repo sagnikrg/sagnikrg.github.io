@@ -34,7 +34,8 @@ https://listen.uni-bonn.de/wws/subscribe/cond-mat-bonn?previous_action=info
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Franco_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_franco)] |
 | **2.**Kriti Baweja (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif) | November 08, 2023 (Wednesday)| TBA| 
 | **3.**Julien Breiher  (AG Luitz) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif) | November 15, 2023 (Wednesday)| TBA| 
-| **4.**Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   TBA|
+| **4.**Michael Hübner, Oliver Freyermuth  (IT Dept.) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif) | November 22, 2023 (Wednesday)| News from the IT department and Cluster Computing | 
+| **5.**Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   TBA|
 
 ## Details of Talks:
 
