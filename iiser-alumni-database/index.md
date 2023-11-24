@@ -27,7 +27,7 @@ The idea is to have a database, so that if you are moving to and want to see if 
 
 ## The resulting Map:  
 
-<div style="width:20%; margin: auto;" align="center">
+<div align="center">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Hrc_uk626nrvlIpqq2k4IRSQ8jXLIhs&ehbc=2E312F&noprof=1" width="1280" height="640"></iframe>
 </div>
 
