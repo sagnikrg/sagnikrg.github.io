@@ -18,7 +18,7 @@ This page is still being updated from backend. Page may look very different on r
 **Note:** This initiative is extremely unofficial and completely voluntary. Data is only shared with people who wishes to take part in the same. Once you fill the form you will get a link to the map and an excel sheet containing all response. The excel sheet will never be made publicly available on the internet. 
 
 
-The idea is to have a database, so that if you want are moving and want to see if someone is there in some city, to have the info!
+The idea is to have a database, so that if you are moving to and want to see if someone is there in some city, to have the info!
 
  Happy Connecting! 😃
 
@@ -27,7 +27,7 @@ The idea is to have a database, so that if you want are moving and want to see i
 
 ## The resulting Map:  
 
-<div align="center">
+<div style="width:20%; margin: auto;" align="center">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Hrc_uk626nrvlIpqq2k4IRSQ8jXLIhs&ehbc=2E312F&noprof=1" width="1280" height="640"></iframe>
 </div>
 
