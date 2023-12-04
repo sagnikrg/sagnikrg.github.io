@@ -42,8 +42,11 @@ The Visitor Gieger Counter :
 | | | [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Julien_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_julien)] |
 | **4.**Michael Hübner, Oliver Freyermuth  (IT Dept.)  | November 29, 2023 (Wednesday)| News from the IT department and Cluster Computing | 
 | | | [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Oliver_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_oliver)] |
-| **5.**Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   Bistability dynamics in the dissipative Dicke-Bose-Hubbard system|
+| **5.**Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   Bistability dynamics in the dissipative Dicke-Bose-Hubbard system |
 | | | [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Sayak_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_sayak)] |
+
+
+
 ## Details of Talks:
 
 
