@@ -42,8 +42,8 @@ The Visitor Gieger Counter :
 | | | [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Julien_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_julien)] |
 | **4.**Michael Hübner, Oliver Freyermuth  (IT Dept.)  | November 29, 2023 (Wednesday)| News from the IT department and Cluster Computing | 
 | | | [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Oliver_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_oliver)] |
-| **5.**Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   TBA|
-
+| **5.**Dr. Sayak Ray (AG Kroha) ![Alt Text](https://web.archive.org/web/20090821140749im_/http://geocities.com/Heartland/Cabin/5680/Upcoming1.gif)| December 06, 2023 (Wednesday)|   Bistability dynamics in the dissipative Dicke-Bose-Hubbard system|
+| | | [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Sayak_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_sayak)] |
 ## Details of Talks:
 
 
@@ -119,6 +119,21 @@ The Visitor Gieger Counter :
 
 
  
+
+**5. December 06, 2023 (Wednesday)**
+
+ 
+**Title:**  Bistability dynamics in the dissipative Dicke-Bose-Hubbard system
+
+**Speaker:**  Dr. Sayak Ray (AG Kroha)
+
+**Abstract:** 
+<a name="abs_sayak"></a>
+
+<details open>
+<summary> </summary>
+<br>  We consider a driven-dissipative system consisting of an atomic Bose-Einstein condensates in a two-dimensional Hubbard lattice and is coupled to a single mode of an optical cavity. Due to the interplay between strong, repulsive atomic interaction and the atom-cavity coupling, the system exhibits several phases of atoms and photons including the atomic superfluid (SF) and supersolid (SS). We investigate the dynamical behaviour of the system, where we include dissipation using the Lindblad master equation formalism. Due to the discontinuous nature of the Dicke transition for strong atomic repulsion, we find extended co-existence regions of different phases. We investigate the resulting switching dynamics, particularly between the coexisting SF and SS phases, which eventually become damped by dissipation.
+</details>
 
 
 
