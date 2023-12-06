@@ -32,7 +32,7 @@ The Visitor Gieger Counter :
 ## Talks This Season:
 
 
-| Speaker              | Date | Title |
+| Speaker           | Date    | Title |
 | :---------------- | :------ | :---- |
 | **1.** Dr. Franco Lisandrini (AG Kollath) | October 18, 2023 (Wednesday)| Partially disordered Hiesenberg antiferromagnet with short range stripe correlations |
 | | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/Franco_Slides.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-2#abs_franco)] |
