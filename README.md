@@ -28,6 +28,7 @@ You can have a look at my detailed [Project Report](https://sagnikrg.github.io/N
 Gieger Counter :
 
 ![Visitor Count](https://profile-counter.glitch.me/{sagnikrg}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sagnikiiser}/count.svg)
 
 ### Further Stuffs
 
