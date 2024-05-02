@@ -7,8 +7,8 @@ This page now functions as the archive for the season 1 talks. Other Seasons can
 
 
 
-[Season 1: WiSe22-SoSe23](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/)\
-[Season 2: WiSe23-SoSe24](https://sagnikiiser.github.io/CondMat-Bonn/Season-2/)
+[Season 1: WiSe22-SoSe23](https://sagnikrg.github.io/CondMat-Bonn/Season-1/)\
+[Season 2: WiSe23-SoSe24](https://sagnikrg.github.io/CondMat-Bonn/Season-2/)
 
 
 ![Alt Text](https://web.archive.org/web/20091027035613/http://geocities.com/sjfarthing/graphics/any_browser_computer.gif)
@@ -29,39 +29,39 @@ This page is still being updated from backend to match the new template. Some Li
 | Speaker              | Date | Title |
 | :---------------- | :------ | :---- |
 | **1.** Marvin Lenk (AG Kroha) | October 19, 2022 (Wednesday)| Heavy-Fermion Systems and Some Exotic Examples  |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Marvin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_marvin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Marvin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_marvin)] |
 | **2.** Dr. Sayak Ray (AG Kroha) | October 26, 2022 (Wednesday)| Interacting spins under quasiperiodic drive  |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Sayak.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_sayak)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Sayak.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_sayak)] |
 | **3.** Dr Anne-Maria Johanna Visuri (AG Kollath) |  November 2, 2022 (Wednesday)| Superfluid transport through a dissipative quantum point contact  |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Anne-Maria.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_anne-maria)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Anne-Maria.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_anne-maria)] |
 | **4.** Philipp Höllmer (AG Monien) |  November 9, 2022 (Wednesday)| Bringing the power of Monte Carlo methods to long-range-interacting molecular systems  |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_philipp)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_philipp)] |
 | **5.** Robin Schaefer (MPI-PKS Dresden) | November 21, 2022 (Monday) | The pyrochlore Heisenberg antiferromagnet: From finite to zero temperature |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **6.** Dr. Franco Thomas Lisandrini (AG Kollath) | December 1, 2022 (Thursday) | Majorana edge-modes in a spinful particle conserving model |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_franco)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_franco)] |
 | **7.** Sagnik Ghosh (AG Luitz) |  December 8, 2022 (Thursday) | Absorbing State Transitions in Monitored Systems |
-| | |  [[Slides]()],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_sagnik)] |
+| | |  [[Slides]()],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_sagnik)] |
 | **8.** Michael Kajan (AG Kroha) | December 14, 2022 (Wednesday) | Methods for Slave-Particles in Non-Equilibrium |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_micha)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_micha)] |
 | **9.** Prof. David Luitz | February 1, 2023 (Wednesday) | TFast Time-Evolution of Matrix-Product States using the QR decomposition |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **10.** Maxime Debertolis (AG Luitz) | February 8, 2023 (Wednesday) | Study of quantum impurity problems in the framework of natural orbitals |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **11.** Prof. Lena Funcke  | February 16, 2023 (Thursday) | Towards overcoming the sign problem with tensor networks and quantum computing |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **12.** Dr. Neda Ahamadi (AG Kollath) | February 22, 2023 (Wednesday) | Dissipative symmetry-protected topological order |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **13.** Prof. Dr. Johann Kroha | April 11, 2023 (Tuesday) | Kondo breakdown in Kondo lattice systems: RKKY versus local spin screening, or: How to measure Eulers constant |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **14.** Prof. Tom C. Luu (Julich) | April 18, 2023 (Tuesday) | Alleviating the Sign Problem via Contour Deformation |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **15.** Martina Gisti (AG Luitz) | May 23, 2023 (Tuesday) | Isometric Tensor Network states in 2dquantum many-body systems as representations of thermal states |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **17.** Karin Haderlein (AG Kollath) |  May 09, 2023 (Tuesday) | TSpectral Properties of the Dimerized Fermi Hubbard Model |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 | **18.** Prof. Carsten Urbach | May 23, 2023 (Tuesday) | Hamiltonian approach to lattice gauge theories with digitised gauge fields |
-| | |  [[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
+| | |  [[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Robin.pdf)],[[Abstract](https://sagnikrg.github.io/CondMat-Bonn/Season-1/#abs_robin)] |
 
 
 
@@ -92,8 +92,8 @@ In this talk I will discuss the physics of heavy-fermion systems and my current 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/146/](https://indico.hiskp.uni-bonn.de/event/146/)
 
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Marvin.pdf)],
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster.pdf)]
+[[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Marvin.pdf)],
+[[Poster](https://sagnikrg.github.io/CondMat-Bonn/Season-1/JC-Poster.pdf)]
 
 
 
@@ -116,7 +116,7 @@ In this talk, I will discuss the dynamics of a system subjected to quasiperiodic
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/148/](https://indico.hiskp.uni-bonn.de/event/148/)
 
 
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Sayak.pdf)]
+[[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Sayak.pdf)]
 
 
 **3. November 2, 2022**
@@ -139,8 +139,8 @@ We study theoretically and experimentally the superfluid transport of ultracold 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/156/](https://indico.hiskp.uni-bonn.de/event/156/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Anne-Maria-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Anne-Maria.pdf)]
+[[Poster](https://sagnikrg.github.io/CondMat-Bonn/Season-1/JC-Poster-Anne-Maria-min.pdf)]
+[[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Anne-Maria.pdf)]
 
 **4. November 9, 2022**
 
@@ -165,8 +165,8 @@ Collaborators: N. Noirault (ENS Paris), B. Li (ENS Paris), A. C. Maggs (ESPCI Pa
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/159/](https://indico.hiskp.uni-bonn.de/event/159/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Philipp-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)]
+[[Poster](https://sagnikrg.github.io/CondMat-Bonn/Season-1/JC-Poster-Philipp-min.pdf)]
+[[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Philipp.pdf)]
 
 
 
@@ -199,7 +199,7 @@ Zero temperature properties are even less accessible: Neither the nature of the 
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/171/](https://indico.hiskp.uni-bonn.de/event/171/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Robin-min.pdf)]
+[[Poster](https://sagnikrg.github.io/CondMat-Bonn/Season-1/JC-Poster-Robin-min.pdf)]
 
 
 
@@ -226,8 +226,8 @@ Topologically protected edge states, such as Majorana edge modes, have attracted
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/189/](https://indico.hiskp.uni-bonn.de/event/189/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/JC-Poster-Franco-min.pdf)]
-[[Slides](https://sagnikiiser.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)]
+[[Poster](https://sagnikrg.github.io/CondMat-Bonn/Season-1/JC-Poster-Franco-min.pdf)]
+[[Slides](https://sagnikrg.github.io/CondMat-Bonn/Season-1/Slides-Franco.pdf)]
 
 
 
@@ -295,7 +295,7 @@ We focus on bosonic systems, which may show spontaneously broken symmetry requir
 
 Indico Link: [https://indico.hiskp.uni-bonn.de/event/198/](https://indico.hiskp.uni-bonn.de/event/198/)
 
-[[Poster](https://sagnikiiser.github.io/CondMat-Bonn/JC-Poster-Micha-min.pdf)]
+[[Poster](https://sagnikrg.github.io/CondMat-Bonn/JC-Poster-Micha-min.pdf)]
 
 
 

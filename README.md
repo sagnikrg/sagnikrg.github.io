@@ -13,21 +13,21 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 
 I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical Aspects. 
 
-You can have a look at my detailed [Project Report](https://sagnikiiser.github.io/NIUS/NIUS_thesis.pdf) at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation. 
+You can have a look at my detailed [Project Report](https://sagnikrg.github.io/NIUS/NIUS_thesis.pdf) at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation. 
 
 ### Quick Links
 
-* **The Conndesed Matter Theory Journal Club-Uni Bonn:** [CondMat-Bonn](https://sagnikiiser.github.io/CondMat-Bonn/)
+* **The Conndesed Matter Theory Journal Club-Uni Bonn:** [CondMat-Bonn](https://sagnikrg.github.io/CondMat-Bonn/)
 
-* A Journal Club on [Measurement Induced Phase Transitions.](https://sagnikiiser.github.io/MIPT/)
+* A Journal Club on [Measurement Induced Phase Transitions.](https://sagnikrg.github.io/MIPT/)
 * A Seminar Series on Geometric Quantisation
 * A Blog on Rare-Ragas of Hindustani Classical Music
-* A [Working Manual](https://sagnikiiser.github.io/brahmos/) that I wrote for the IISER Super Computer.
+* A [Working Manual](https://sagnikrg.github.io/brahmos/) that I wrote for the IISER Super Computer.
 
 
 Gieger Counter :
 
-![Visitor Count](https://profile-counter.glitch.me/{sagnikiiser}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sagnikrg}/count.svg)
 
 ### Further Stuffs
 
@@ -37,20 +37,20 @@ The usual tex file provided (at least at our time) suffered from various allignm
 
 Albeit being simple tweaks, several of my batchmates had found this template useful, so I am making it publicly available.
 
-Here is a [sample output](https://sagnikiiser.github.io/MS%20Thesis%20Proposal/MS_Thesis_Proposal.pdf).
+Here is a [sample output](https://sagnikrg.github.io/MS%20Thesis%20Proposal/MS_Thesis_Proposal.pdf).
 
 (The Body of the sample text is an exerpt from the Liner Notes to [_Final Report (1999)_](http://www.math.utah.edu/~ptrapa/finalreport/CD.html), an album by _Do Not Erase_, the only Rock Band ever formed at the Institute for Advanced Study, Princeton.)
 
 If you wish to fit in more text, change the classfile from _article_ to _amsart_.
 
-Editable Latex Template as zip file: [MS_Thesis_Proposal.zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SagnikIISER/sagnikiiser.github.io/blob/main/MS%20Thesis%20Proposal/MS%20Thesis%20Proposal.zip) 
+Editable Latex Template as zip file: [MS_Thesis_Proposal.zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sagnikrg/sagnikrg.github.io/blob/main/MS%20Thesis%20Proposal/MS%20Thesis%20Proposal.zip) 
 
 ![Thumbnail](Guernica.jpg)
 
 
 **Manual for Supercomputer:**
 Recently, I have been creating a manual to collate working knowledge of our in-house Supercomputer, Param-Brahma, which is usually passed on from generations to generations of students.
-<br/> [https://sagnikiiser.github.io/brahmos/](https://sagnikiiser.github.io/brahmos/)
+<br/> [https://sagnikrg.github.io/brahmos/](https://sagnikrg.github.io/brahmos/)
 
 **Julia in Physics:** With changing times it seems that once again we are going to update out heart-throb computing language and this time the candidate is [Julia](https://julialang.org/). I recieved my first run through of it in the [7th Les Houches School on Computational Physics](https://comp-quant-2021.sciencesconf.org/) where many of us found it toiling to get in the system first place. Hence this notes.
 
