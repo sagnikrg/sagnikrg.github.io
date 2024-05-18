@@ -3,7 +3,9 @@
 I am presently working as a Doctoral Student with [Dr. David Luitz](https://dluitz.github.io/) at the Physikalishes Institut of the [University of Bonn](https://www.pi.uni-bonn.de/). I did my BS-MS as a dual degree from [IISER Pune](http://iiserpune.ac.in) with a major in Physics. I am primarily intrested in non equilibrium many body physics, and am currently excavating minimal models for Discrete Time Crystals as a part of my doctoral thesis.
 
 
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact&count_private=true&hide=html&token=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)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg&count_private=true&token=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)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg)
