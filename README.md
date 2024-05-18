@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 500px; height: 500px;">
+  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 300px; height: 300px;">
 </p>
 
 # Sagnik Ghosh
