@@ -27,12 +27,13 @@ You can have a look at my detailed [Project Report](https://sagnikrg.github.io/N
 
 ### Quick Links
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 15%; width: 100px; height: 100px;">
+
+* **The Conndesed Matter Theory Journal Club-Uni Bonn:** 
+<p align="left">
+  <a href="https://sagnikrg.github.io/cond-mat-bonn/">
+    <img src="https://pbs.twimg.com/profile_images/953219626187542529/tUN_yzk2_400x400.jpg" alt="Description of Image" style="border-radius: 15%; width: 100px; height: 100px;">
+  </a>
 </p>
-
-
-* **The Conndesed Matter Theory Journal Club-Uni Bonn:** [cond-mat-bonn](https://sagnikrg.github.io/cond-mat-bonn/)
 
 * A Journal Club on [Measurement Induced Phase Transitions.](https://sagnikrg.github.io/MIPT/)
 * A Seminar Series on Geometric Quantisation
