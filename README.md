@@ -1,7 +1,17 @@
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 300px; height: 300px;">
+</p>
+
 # Sagnik Ghosh
 
 I am presently working as a Doctoral Student with [Dr. David Luitz](https://dluitz.github.io/) at the Physikalishes Institut of the [University of Bonn](https://www.pi.uni-bonn.de/). I did my BS-MS as a dual degree from [IISER Pune](http://iiserpune.ac.in) with a major in Physics. I am primarily intrested in non equilibrium many body physics, and am currently excavating minimal models for Discrete Time Crystals as a part of my doctoral thesis.
- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg)
+
+![GitHub Contributions](https://ghchart.rshah.org/sagnikrg)
 
 ### Curriculam Vitae
 
@@ -17,7 +27,7 @@ You can have a look at my detailed [Project Report](https://sagnikrg.github.io/N
 
 ### Quick Links
 
-* **The Conndesed Matter Theory Journal Club-Uni Bonn:** [CondMat-Bonn](https://sagnikrg.github.io/CondMat-Bonn/)
+* **The Conndesed Matter Theory Journal Club-Uni Bonn:** [cond-mat-bonn](https://sagnikrg.github.io/cond-mat-bonn/)
 
 * A Journal Club on [Measurement Induced Phase Transitions.](https://sagnikrg.github.io/MIPT/)
 * A Seminar Series on Geometric Quantisation
