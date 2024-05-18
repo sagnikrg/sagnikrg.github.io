@@ -10,7 +10,7 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg)
 
-![GitHub Contributions](https://ghchart.rshah.org/sagnikrg)
+![GitHub Contributions](https://ghchart.rshah.org/sagnikrg&count_private=true&token=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)
 
 ### Curriculam Vitae
 
