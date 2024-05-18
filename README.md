@@ -28,7 +28,7 @@ You can have a look at my detailed [Project Report](https://sagnikrg.github.io/N
 ### Quick Links
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 15%; width: 150px; height: 150px;">
+  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 15%; width: 70px; height: 70px;">
 </p>
 
 
