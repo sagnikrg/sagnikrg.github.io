@@ -35,12 +35,14 @@ You can have a look at my detailed [Project Report](https://sagnikrg.github.io/N
   </a>
 </p>
 
-<a href="https://sagnikrg.github.io/cond-mat-bonn/" style="text-decoration: none; color: inherit;">
+<p align="center">
+  <a href="https://sagnikrg.github.io/cond-mat-bonn/" style="text-decoration: none; color: inherit;">
     <figure style="display: inline-block; text-align: left;">
       <img src="https://pbs.twimg.com/profile_images/953219626187542529/tUN_yzk2_400x400.jpg" alt="Description of Image" style="border-radius: 15%; width: 100px; height: 100px;">
       <figcaption style="margin-top: 10px; font-size: 14px;">Condensed Matter Theory JC</figcaption>
     </figure>
   </a>
+  </p>
 
 
 * A Journal Club on [Measurement Induced Phase Transitions.](https://sagnikrg.github.io/MIPT/)
