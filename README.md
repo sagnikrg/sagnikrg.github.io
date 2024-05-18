@@ -1,7 +1,7 @@
 # Sagnik Ghosh
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 500px; height: 500px;">
+  <img src="[https://avatars.githubusercontent.com/sagnikrg](https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/444753083_829859975254716_8803977735697134304_n.jpg?_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_ohc=zkOtsDGIWtcQ7kNvgED6nMI&edm=AKralEIBAAAA&ccb=7-5&oh=00_AYApbqCZESGS7UPDCLBuwSda5mwZoVdrv01YTvUHp1NuzA&oe=664EADD2&_nc_sid=2fe71f)" alt="Profile Picture" style="border-radius: 50%; width: 500px; height: 500px;">
 </p>
 
 
