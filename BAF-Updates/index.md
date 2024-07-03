@@ -3,6 +3,76 @@
 [[Latest](https://sagnikrg.github.io/BAF-Updates/#latest)] at bottom.
 
 
+
+23 May, 24 2:05:20 PM
+
+Here's a summary of the email:
+
+---
+
+**Summary: End of Life for CentOS 7 and Debian 10**
+
+CentOS 7 and Debian 10 will reach their end of life on June 30, 2024.
+
+**Key Actions:**
+- **Removal Date:** June 28, 2024
+  - CentOS 7 and Debian 10 will be removed from the "ContainerOS" options for interactive and batch jobs.
+  - Existing jobs using these systems can finish, but no new jobs can be started with them.
+
+**Alternatives:**
+- **RockyLinux 8** (`+ContainerOS="Rocky8"`) – Available since July 2021.
+- **RockyLinux 9** (`+ContainerOS="Rocky9"`) – Available since February 2023, similar to AlmaLinux 9.
+- **Debian 11** (`+ContainerOS="Debian11"`) – Currently in use on desktop machines.
+- **Debian 12** (`+ContainerOS="Debian12"`) – Will be available soon.
+
+**Recommendations:**
+- Migrate any workflows still using CentOS 7 or Debian 10 to one of the newer ContainerOS options.
+- For new projects, use the newest available system to avoid future updates and benefit from improved performance.
+
+Cheers and happy computing,
+Your BAF Operators
+
+24 Jun, 24 9:31:52 AM
+
+
+Here's a summary of the email:
+
+---
+
+**Reminder: ContainerOS Removal on Friday, 28th June**
+
+This is a reminder that on Friday, 28th June, the ContainerOS for Debian10 and CentOS7 will be discontinued. 
+
+**Key Points:**
+- **Discontinuation Date:** Friday, 28th June
+- **Affected Systems:** ContainerOS for Debian10 and CentOS7
+- **Alternatives:** Available alternatives were detailed in a previous email.
+
+Cheers,
+Your BAF Operators
+
+
+24 Jun, 24 10:56:31 PM
+
+Here's a summary of the email:
+
+---
+
+**Summary: Emergency Cooling System Failure**
+
+About an hour ago, the redundant cooling system at Nußallee 12 began to fail, causing temperatures to rise.
+
+**Key Points:**
+- **Immediate Action:** All BAF worker nodes at Nußallee 12 are being shut down to protect core servers. Jobs running on these nodes have been aborted.
+- **Job Availability:** Jobs not requiring CephFS_IO="high" can still be run, as they are located in a different building and will be automatically restarted on remaining resources.
+- **Technical Response:** The emergency team has been alerted and will arrive within the next hour.
+
+Updates will be provided as the situation develops or if further systems need to be shut down.
+
+Cheers,
+Your IT Team
+
+
 24 Jun, 24 11:50:28 PM
 
 Here's a summary of the email:
