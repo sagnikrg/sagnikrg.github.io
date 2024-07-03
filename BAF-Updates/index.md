@@ -2,6 +2,8 @@
 
 [[Latest](https://sagnikrg.github.io/BAF-Updates/#latest)] at bottom.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" width="100" height="100">
+<img src="https://pbs.twimg.com/profile_images/953219626187542529/tUN_yzk2_400x400.jpg" width="100" height="100">
 
 
 23 May, 24 2:05:20 PM
