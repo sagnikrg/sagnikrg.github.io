@@ -3,6 +3,33 @@
 [[Latest](https://sagnikrg.github.io/BAF-Updates/#latest)] at bottom.
 
 
+
+28 Jun, 24 4:02:11 PM:
+
+Here's a summary of the email:
+
+---
+
+**Summary: High I/O Nodes and CephFS Update**
+
+BAF has reintroduced the first high I/O worker nodes with the new OS and updated CephFS clients. High-IO jobs are now running on four nodes, with interactive and batch job slots available.
+
+**Key Points:**
+- **Cooling Stability:** Due to ongoing concerns, only 20% of high I/O machines will be brought back before the weekend.
+- **Performance Improvements:** Initial tests show improved write performance and I/O throughput stability.
+- **User Action:** If you notice any changes in job behavior, report them for investigation.
+
+**Future Steps:**
+- Revive all nodes with the new OS.
+- Upgrade previously used nodes.
+- Ongoing work on the CephFS file server upgrade to restore /cephfs on desktops.
+
+**Note:** Recovery will take several weeks due to other commitments, including a move to a new building. Users relying on /cephfs from desktops should use provided workarounds.
+
+Cheers and have a nice weekend,
+BAF Operators
+
+
 <a name="latest"></a>
 
 02 Jul, 24 5:24:06 PM:
