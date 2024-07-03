@@ -2,6 +2,41 @@
 
 [[Latest](https://sagnikrg.github.io/BAF-Updates/#latest)] at bottom.
 
+25 Jun, 24 7:07:37 PM:
+
+Here's a summary of the email:
+
+---
+
+**Summary: /cephfs Access Issues on Desktops**
+
+BAF has received reports of access to /cephfs from desktops hanging under high activity. The issue does not affect access from within the cluster or interactive jobs.
+
+**Key Points:**
+- **Issue:** Desktop access to /cephfs may hang, especially under high activity.
+- **Current Status:** Investigation is ongoing without a clear trigger identified yet.
+- **Next Steps:** The team hopes to resolve this before the next Ceph upgrade, which requires an OS upgrade and will take weeks. The issue might be related to the current Ceph release.
+
+Cheers,
+BAF Operators
+
+27 Jun, 24 4:24:00 PM:
+
+Here's a summary of the email:
+
+---
+
+**Summary: BAF System Upgrade Progress**
+
+The BAF team is prioritizing the OS upgrade for worker nodes to eventually upgrade the OS of file servers, aiming to restore /cephfs on desktops. This process will be gradual.
+
+**Key Points:**
+- **Current Status:** Initial worker nodes with the new OS are running, but still require stability testing, particularly with InfiniBand hardware.
+- **Access:** These nodes are not yet available for regular jobs.
+- **Expectations:** A small fraction of high I/O nodes may be reopened by the weekend to accommodate high I/O job demands and test the new setup and cooling system.
+
+Cheers,
+BAF Operators
 
 
 28 Jun, 24 4:02:11 PM:
