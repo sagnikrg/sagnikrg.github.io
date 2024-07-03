@@ -2,6 +2,121 @@
 
 [[Latest](https://sagnikrg.github.io/BAF-Updates/#latest)] at bottom.
 
+
+24 Jun, 24 11:50:28 PM
+
+Here's a summary of the email:
+
+---
+
+**Summary: Cooling System Status Update**
+
+The technical department inspected the cooling system and found one redundant device completely unresponsive and the other in error.
+
+**Key Points:**
+- **Inspection Results:** One redundant cooling device is broken, and the other was reset after being in error.
+- **Current Status:** Optimistic that temperatures will either decrease or remain stable until tomorrow.
+- **Action Taken:** The core part of BAF (CephFS_IO="high") will remain down until cooling is stable.
+- **Future Steps:** The broken cooling device will be repaired soon to restore redundancy.
+
+Cheers and have a good night,
+Oliver
+
+25 Jun, 24 1:46:20 AM
+
+Here's a summary of the email:
+
+---
+
+**Summary: Ongoing Cooling System Issues**
+
+The BAF team reports that the cooling system reset did not resolve the issue, and temperatures are still rising.
+
+**Key Points:**
+- **Temperature Status:** Temperatures continue to rise despite the cooling system reset.
+- **Current Actions:** All redundant and non-critical systems have been shut off to manage the temperature.
+- **Next Steps:** The team expects to maintain safe temperatures until morning, when technicians can further investigate.
+
+More updates will be provided in the morning.
+
+Cheers,
+Oliver
+
+25 Jun, 24 1:52:04 PM
+
+Here's a summary of the email:
+
+---
+
+**Summary: Cooling System Update**
+
+The BAF team provides an update on the cooling system issues. One cooling machine remains broken, and the other one, despite showing 100% operational status, isn't providing any cooling power.
+
+**Key Points:**
+- **Current Status:** One cooling machine is broken, and the other isn't working properly.
+- **Technical Support:** The cooling system technicians have been alerted and arrived an hour ago. The hot weather has caused multiple outages, delaying their response.
+- **Temporary Measures:** The server room is open and under surveillance, with big fans providing minimal cooling.
+
+Further updates will be provided as soon as available.
+
+Cheers,
+BAF Operators
+
+25 Jun, 24 2:23:45 PM
+
+Here's a summary of the email:
+
+---
+
+**Summary: Upcoming CephFS Storage Upgrade**
+
+While technicians work on the cooling system (currently with reduced capacity), the BAF team will upgrade the CephFS storage (BAF User Data Directory / BUDDY, i.e., /cephfs, not home storage). This upgrade includes several major updates missed previously due to the need for extensive testing.
+
+**Key Points:**
+- **Cooling System:** Reduced cooling capacity is partially restored.
+- **Upgrade:** Planned upgrade for CephFS storage, aiming for a smooth process.
+- **Backup Notice:** There are no backups for the CephFS / BUDDY storage.
+
+The team will keep users updated on the progress.
+
+Cheers,
+BAF Operators
+
+25 Jun, 24 4:48:16 PM:
+
+Here's a summary of the email:
+
+---
+
+**Summary: Filesystem Upgrade Update**
+
+The BAF team has completed today's filesystem upgrade.
+
+**Key Points:**
+- **Current Status:** Today's filesystem upgrade is finished.
+- **Upcoming Work:** Further filesystem upgrades will occur in the coming weeks after migrating all BAF servers to a new OS. This migration should not cause any noticeable downtime for users.
+
+Cheers,
+BAF Operators
+
+25 Jun, 24 4:48:30 PM:
+
+Here's a summary of the email:
+
+---
+
+**Summary: Filesystem Upgrade Update**
+
+The BAF team has completed today's filesystem upgrade.
+
+**Key Points:**
+- **Current Status:** Today's filesystem upgrade is finished.
+- **Upcoming Work:** Further filesystem upgrades will occur in the coming weeks after migrating all BAF servers to a new OS. This migration should not cause any noticeable downtime for users.
+
+Cheers,
+BAF Operators
+
+
 25 Jun, 24 7:07:37 PM:
 
 Here's a summary of the email:
