@@ -1,4 +1,4 @@
-*GPT4o summary of BAF daily BAF updates*
+## GPT4o summary of daily BAF updates:
 
 [[Latest](https://sagnikrg.github.io/BAF-Updates/#latest)] at bottom.
 
