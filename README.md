@@ -29,9 +29,7 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
     GitHubCalendar(".calendar", "sagnikrg", { responsive: true });
 </script>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg)
 
 ![GitHub Contributions](https://ghchart.rshah.org/sagnikrg)
 
