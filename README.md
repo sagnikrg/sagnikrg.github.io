@@ -8,33 +8,10 @@
 I am presently working as a Doctoral Student with [Dr. David Luitz](https://dluitz.github.io/) at the Physikalishes Institut of the [University of Bonn](https://www.pi.uni-bonn.de/). I did my BS-MS as a dual degree from [IISER Pune](http://iiserpune.ac.in) with a major in Physics. I am primarily intrested in non equilibrium many body physics, and am currently excavating minimal models for Discrete Time Crystals as a part of my doctoral thesis.
 
 
-<!-- Include the library. -->
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "sagnikrg");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "sagnikrg", { responsive: true });
-</script>
-
-
-
 ![GitHub Contributions](https://ghchart.rshah.org/sagnikrg)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact)
 ### Curriculam Vitae
 
 * University of Bonn - Doctoral Researcher (2022-)
