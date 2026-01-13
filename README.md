@@ -12,7 +12,6 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 ![GitHub Contributions](https://ghchart.rshah.org/sagnikrg?nocache=1)
 
 
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact) -->
 ### Curriculam Vitae
 
