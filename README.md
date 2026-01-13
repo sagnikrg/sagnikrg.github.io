@@ -23,7 +23,8 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 
 I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical Aspects. 
 
-You can have a look at my detailed [Project Report](https://sagnikrg.github.io/NIUS/NIUS_thesis.pdf) at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation. 
+You can have a look at my detailed [Project Report](https://sagnikrg.github.io/NIUS/NIUS_thesis.pdf) at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation. Reports from some other works are also publicly available here: 
+[LKB](https://sagnikrg.github.io/LKB.pdf), [Unitary Evolutions](https://sagnikrg.github.io/UnitaryEvolutions.pdf)
 
 ### Quick Links
 
