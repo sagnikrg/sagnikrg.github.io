@@ -57,7 +57,7 @@ Reports from some other works are also publicly available here:
 
 Gieger Counter :
 
-![Visitor Count](https://profile-counter.glitch.me/{sagnikiiser}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sagnikrg}/count.svg)
 
 ### Further Stuffs
 
