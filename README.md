@@ -19,9 +19,10 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 * IISER Pune- BSMS Dual Degree (2016-2021)
 
 * I did my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai, with Dr. Rajdeep Sensarma , studying Phonon-Electron Equilibration using Keldysh Field Theory
-* Earlier I have been a [NIUS](https://nius.hbcse.tifr.res.in) Fellow at [HBCSE (TIFR)](http://www.hbcse.tifr.res.in/).
+* Earlier I have been a [NIUS](https://nius.hbcse.tifr.res.in) Fellow at [HBCSE (TIFR)](http://www.hbcse.tifr.res.in/) and a Visiting Summer Fellow at the ![Laborotoire Kastler Brossel](https://www.quentinglorieux.fr/theses) at Paris, France.
 
-I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical Aspects. 
+
+I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical/Formalism Aspects. 
 
 You can have a look at my detailed [Project Report](https://sagnikrg.github.io/NIUS/NIUS_thesis.pdf) at NIUS, where I have worked on reformuating Quantum Fluid Dynamics from the Path Integral formulation. 
 
@@ -47,7 +48,7 @@ You can have a look at my detailed [Project Report](https://sagnikrg.github.io/N
 
 
 * A Seminar Series on [Geometric Quantisation](https://sagnikrg.github.io/MIPT/)
-* A Seminar Series on [Pan IISER Alumni Database](https://sagnikrg.github.io/iiser-alumni-database/)
+* I also created and (used to) maintain the [Pan IISER Alumni Database](https://sagnikrg.github.io/iiser-alumni-database/)
 
 
 Gieger Counter :
