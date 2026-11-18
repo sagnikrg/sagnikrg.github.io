@@ -5,3 +5,21 @@
     max-width: calc(100vw - 5in);
   }
 }
+
+/* Connected Authors embed: fixed 776:547 frame, centred. Full content width on smaller screens;
+   on large screens 4 inches of white space on each side of the page. */
+.ca-embed {
+  display: block;
+  width: 100%;
+  aspect-ratio: 776 / 547;
+  height: auto;
+  margin: 0 auto 0.5rem;
+  border: 1px solid #dfe3e9;
+  border-radius: 10px;
+  overflow: hidden;
+}
+@media (min-width: 1240px) {
+  .ca-embed {
+    width: min(100%, calc(100vw - 8in));
+  }
+}
