@@ -161,7 +161,7 @@ function tip(e,d){
   t.style.left=Math.max(4,x)+"px"; t.style.top=Math.max(4,y)+"px";
 }
 function panel(){
-  const el=$("panel"); el.replaceChildren();
+  const el=$("panel"); el.replaceChildren(); el.dataset.empty=sel?"0":"1";
   if(!sel){
     el.append(Object.assign(document.createElement("h3"),{textContent:"Pick someone"}),
       Object.assign(document.createElement("p"),{className:"meta",textContent:`${G?G.nodes.length:0} people, ${G?G.links.length:0} co-author links.`}),
