@@ -23,3 +23,17 @@
     width: min(100%, calc(100vw - 8in));
   }
 }
+
+/* GitHub contributions chart: same frame rules as the Connected Authors embed
+   (centred; 4 inches of white space on each side on large screens), height follows the image. */
+.gh-stats {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+@media (min-width: 1240px) {
+  .gh-stats {
+    width: min(100%, calc(100vw - 8in));
+  }
+}
