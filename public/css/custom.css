@@ -6,12 +6,12 @@
   }
 }
 
-/* Connected Authors embed: fixed 776:547 frame, centred. Full content width on smaller screens;
+/* Connected Authors embed: fixed 16:9 frame, centred. Full content width on smaller screens;
    on large screens 4 inches of white space on each side of the page. */
 .ca-embed {
   display: block;
   width: 100%;
-  aspect-ratio: 776 / 547;
+  aspect-ratio: 16 / 9;
   height: auto;
   margin: 0 auto 0.5rem;
   border: 1px solid #dfe3e9;
@@ -25,7 +25,7 @@
 }
 
 /* GitHub contributions chart: same frame rules as the Connected Authors embed
-   (centred; 4 inches of white space on each side on large screens), height follows the image. */
+   centred; 6 inches of white space on each side on large screens, height follows the image. */
 .gh-stats {
   display: block;
   width: 100%;
@@ -34,6 +34,6 @@
 }
 @media (min-width: 1240px) {
   .gh-stats {
-    width: min(100%, calc(100vw - 8in));
+    width: min(100%, calc(100vw - 12in));
   }
 }
