@@ -21,6 +21,12 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 * I did my MS Thesis at the Tata Institute of Fundamental Research [(TIFR)](https://www.tifr.res.in/), Mumbai, with Dr. Rajdeep Sensarma , studying Phonon-Electron Equilibration using Keldysh Field Theory
 * Earlier I have been a [NIUS](https://nius.hbcse.tifr.res.in) Fellow at [HBCSE (TIFR)](http://www.hbcse.tifr.res.in/) and a Visiting Summer Fellow at the [Laborotoire Kastler Brossel](https://www.quentinglorieux.fr/theses) at Paris, France.
 
+### Connected Authors: Sagnik Edition
+
+The physicists whose papers fill my bookshelf, and who wrote with whom. Bubble size is the number of their papers in my collection, line thickness the number of papers the two wrote together. Click a bubble or type a name to explore ([open full screen](https://sagnikrg.github.io/connected-authors/)).
+
+<iframe src="https://sagnikrg.github.io/connected-authors/" title="Connected Authors: Sagnik Edition" style="width:100%;height:820px;border:1px solid #dfe3e9;border-radius:10px;" loading="lazy"></iframe>
+
 
 I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical/Formalism Aspects. 
 

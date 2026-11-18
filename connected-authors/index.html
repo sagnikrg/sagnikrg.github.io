@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>*,*::before,*::after{box-sizing:border-box}body{margin:0;font-size:14px}[hidden]{display:none!important}</style>
+<title>Connected Authors: Sagnik Edition</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500;600&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+/* Layout: title strip, then the full-width co-author graph with a side panel; data is a frozen snapshot embedded below */
+:root{
+  --bg:#f6f7f9; --surface:#ffffff; --fg:#17202b; --muted:#5d6876; --line:#dfe3e9;
+  --node:#2f5d8a; --node-hi:#c4572e; --edge:#8a95a3; --graph-bg:#fbfcfd;
+  --display:"Space Grotesk",system-ui,sans-serif; --body:"Inter",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12161c; --surface:#1a2029; --fg:#e6ebf1; --muted:#9aa5b3; --line:#2c3440;
+  --node:#7fb0e0; --node-hi:#f0a07c; --edge:#6b7685; --graph-bg:#151a21; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12161c; --surface:#1a2029; --fg:#e6ebf1; --muted:#9aa5b3; --line:#2c3440;
+  --node:#7fb0e0; --node-hi:#f0a07c; --edge:#6b7685; --graph-bg:#151a21; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 32px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+h1{font-family:var(--display);font-weight:600;font-size:1.6rem;margin:0;text-wrap:balance}
+.lede{color:var(--muted);margin:4px 0 0;max-width:70ch}
+.graphbox{display:grid;grid-template-columns:minmax(0,1fr) 270px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--graph-bg)}
+@media (max-width:760px){.graphbox{grid-template-columns:minmax(0,1fr)}}
+.stage{position:relative;height:clamp(420px,74vh,780px);min-width:0}
+.stage svg{display:block;width:100%;height:100%;cursor:grab;touch-action:none}
+.stage svg:active{cursor:grabbing}
+.gtools{position:absolute;left:10px;top:10px;right:10px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.gbtn{all:unset;box-sizing:border-box;cursor:pointer;font-size:.78rem;padding:4px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+.gbtn:hover{border-color:var(--fg)}
+.gbtn:focus-visible{outline:2px solid var(--node);outline-offset:2px}
+.gbtn[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.find{font:inherit;font-size:.8rem;padding:4px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);width:180px;min-width:0}
+.find:focus-visible{outline:2px solid var(--node);outline-offset:1px}
+.legend{position:absolute;left:10px;bottom:10px;font-size:.75rem;color:var(--muted);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:5px 9px;max-width:calc(100% - 20px)}
+.tip{position:absolute;pointer-events:none;background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:6px 9px;font-size:.8rem;box-shadow:0 4px 14px rgba(0,0,0,.12);max-width:240px}
+.panel{border-left:1px solid var(--line);background:var(--surface);padding:14px;display:flex;flex-direction:column;gap:10px;min-width:0;overflow:auto;max-height:clamp(420px,74vh,780px)}
+@media (max-width:760px){.panel{border-left:0;border-top:1px solid var(--line);max-height:none}}
+.panel h3{font-family:var(--display);font-weight:600;font-size:1.05rem;margin:0}
+.meta{font-size:.82rem;color:var(--muted);margin:0}
+.panel ol{margin:0;padding-left:1.2em;font-size:.85rem;display:flex;flex-direction:column;gap:2px}
+.panel ol button{all:unset;cursor:pointer;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:2px}
+.panel ol button:hover{text-decoration-color:var(--fg)}
+.w{font-variant-numeric:tabular-nums;color:var(--muted)}
+.node{cursor:pointer}
+.node text{font-family:var(--body);font-size:10px;fill:var(--fg);paint-order:stroke;stroke:var(--graph-bg);stroke-width:3px;pointer-events:none}
+.foot{font-size:.78rem;color:var(--muted)}
+</style>
+
+
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Connected Authors: Sagnik Edition</h1>
+    <p class="lede">Every bubble is a physicist whose papers I keep and read. Bigger bubbles mean more of their papers on my shelf; a thicker line means more papers on my shelf that the two wrote together.</p>
+  </header>
+  <div class="graphbox">
+    <div class="stage" id="stage">
+      <svg id="svg" role="img" aria-label="Co-author graph of the authors in my paper collection"></svg>
+      <div class="gtools">
+        <input class="find" id="find" list="names" type="search" placeholder="Find someone…" aria-label="Find someone and centre the graph on them">
+        <datalist id="names"></datalist>
+        <button class="gbtn" id="only" type="button" aria-pressed="false" title="When someone is selected, hide everyone who is not their co-author">Only their cluster</button>
+        <button class="gbtn" id="lonely" type="button" aria-pressed="false">Hide unlinked</button>
+        <button class="gbtn" id="labels" type="button" aria-pressed="false">All names</button>
+        <button class="gbtn" id="reset" type="button">Reset view</button>
+      </div>
+      <div class="legend" id="legend"></div>
+      <div class="tip" id="tip" hidden></div>
+    </div>
+    <aside class="panel" id="panel" aria-live="polite"></aside>
+  </div>
+  <p class="foot" id="foot"></p>
+</div>
+
+<script>
+const DATA={"people": [{"id": "achilleas-lazarides", "name": "Achilleas Lazarides", "papers": 11}, {"id": "adam-nahum", "name": "Adam Nahum", "papers": 14}, {"id": "aditi-mitra", "name": "Aditi Mitra", "papers": 1}, {"id": "aidan-zabalo", "name": "Aidan Zabalo", "papers": 3}, {"id": "alan-morningstar", "name": "Alan Morningstar", "papers": 6}, {"id": "alejandro-zamora", "name": "Alejandro Zamora", "papers": 4}, {"id": "alexander-altland", "name": "Alexander Altland", "papers": 2}, {"id": "amos-chan", "name": "Amos Chan", "papers": 7}, {"id": "andrea-de-luca", "name": "Andrea De Luca", "papers": 2}, {"id": "andreas-w-w-ludwig", "name": "Andreas W. W. Ludwig", "papers": 3}, {"id": "andrew-c-potter", "name": "Andrew C. Potter", "papers": 6}, {"id": "anushya-chandran", "name": "Anushya Chandran", "papers": 6}, {"id": "arijeet-pal", "name": "Arijeet Pal", "papers": 1}, {"id": "arnab-das", "name": "Arnab Das", "papers": 3}, {"id": "arnab-sen", "name": "Arnab Sen", "papers": 1}, {"id": "arnau-lira-solanilla", "name": "Arnau Lira-Solanilla", "papers": 1}, {"id": "austen-lamacraft", "name": "Austen Lamacraft", "papers": 1}, {"id": "bijay-kumar-agarwalla", "name": "Bijay Kumar Agarwalla", "papers": 3}, {"id": "brian-skinner", "name": "Brian Skinner", "papers": 6}, {"id": "bruno-bertini", "name": "Bruno Bertini", "papers": 1}, {"id": "calum-a-brown", "name": "Calum A. Brown", "papers": 1}, {"id": "cheryne-jonay", "name": "Cheryne Jonay", "papers": 2}, {"id": "chris-dickel", "name": "Chris Dickel", "papers": 1}, {"id": "claudia-artiaco", "name": "Claudia Artiaco", "papers": 5}, {"id": "curt-w-von-keyserlingk", "name": "Curt W. von Keyserlingk", "papers": 2}, {"id": "david-a-huse", "name": "David A. Huse", "papers": 24}, {"id": "david-aceituno-chavez", "name": "David Aceituno Chavez", "papers": 1}, {"id": "david-j-luitz", "name": "David J. Luitz", "papers": 27}, {"id": "deepak-dhar", "name": "Deepak Dhar", "papers": 4}, {"id": "dibyendu-roy", "name": "Dibyendu Roy", "papers": 1}, {"id": "dominic-c-rose", "name": "Dominic C. Rose", "papers": 4}, {"id": "dominik-hahn", "name": "Dominik Hahn", "papers": 4}, {"id": "dries-sels", "name": "Dries Sels", "papers": 5}, {"id": "e-miles-stoudenmire", "name": "E. Miles Stoudenmire", "papers": 2}, {"id": "ehud-altman", "name": "Ehud Altman", "papers": 7}, {"id": "eugene-demler", "name": "Eugene Demler", "papers": 5}, {"id": "fabien-alet", "name": "Fabien Alet", "papers": 3}, {"id": "florian-mintert", "name": "Florian Mintert", "papers": 1}, {"id": "francesco-piazza", "name": "Francesco Piazza", "papers": 1}, {"id": "frank-pollmann", "name": "Frank Pollmann", "papers": 6}, {"id": "frank-wilczek", "name": "Frank Wilczek", "papers": 1}, {"id": "freeman-dyson", "name": "Freeman Dyson", "papers": 1}, {"id": "g-j-sreejith", "name": "G. J. Sreejith", "papers": 2}, {"id": "galbadrakh-dagvadorj", "name": "Galbadrakh Dagvadorj", "papers": 5}, {"id": "hyungwon-kim", "name": "Hyungwon Kim", "papers": 2}, {"id": "iacopo-carusotto", "name": "Iacopo Carusotto", "papers": 3}, {"id": "igor-lesanovsky", "name": "Igor Lesanovsky", "papers": 3}, {"id": "j-ignacio-cirac", "name": "J. Ignacio Cirac", "papers": 7}, {"id": "jedediah-h-pixley", "name": "Jedediah H. Pixley", "papers": 3}, {"id": "jens-h-bardarson", "name": "Jens H. Bardarson", "papers": 6}, {"id": "jeongwan-haah", "name": "Jeongwan Haah", "papers": 2}, {"id": "jimin-l-li", "name": "Jimin L. Li", "papers": 3}, {"id": "joey-tindall", "name": "Joey Tindall", "papers": 4}, {"id": "john-chalker", "name": "John Chalker", "papers": 8}, {"id": "jonathan-keeling", "name": "Jonathan Keeling", "papers": 2}, {"id": "jonathan-ruhman", "name": "Jonathan Ruhman", "papers": 6}, {"id": "jorge-kurchan", "name": "Jorge Kurchan", "papers": 3}, {"id": "juan-p-garrahan", "name": "Juan P. Garrahan", "papers": 4}, {"id": "justin-h-wilson", "name": "Justin H. Wilson", "papers": 3}, {"id": "katarzyna-macieszczak", "name": "Katarzyna Macieszczak", "papers": 4}, {"id": "krishnendu-sengupta", "name": "Krishnendu Sengupta", "papers": 1}, {"id": "laura-foini", "name": "Laura Foini", "papers": 4}, {"id": "leonhard-moske", "name": "Leonhard Moske", "papers": 1}, {"id": "liangsheng-zhang", "name": "Liangsheng Zhang", "papers": 2}, {"id": "loic-herviou", "name": "Loïc Herviou", "papers": 2}, {"id": "lorenzo-piroli", "name": "Lorenzo Piroli", "papers": 3}, {"id": "luis-colmenarez", "name": "Luis Colmenarez", "papers": 8}, {"id": "madhumita-saha", "name": "Madhumita Saha", "papers": 2}, {"id": "marcello-dalmonte", "name": "Marcello Dalmonte", "papers": 2}, {"id": "marcos-rigol", "name": "Marcos Rigol", "papers": 7}, {"id": "mari-carmen-banuls", "name": "Mari Carmen Bañuls", "papers": 3}, {"id": "markus-heyl", "name": "Markus Heyl", "papers": 3}, {"id": "marzena-szymanska", "name": "Marzena Szymańska", "papers": 7}, {"id": "matteo-ippoliti", "name": "Matteo Ippoliti", "papers": 3}, {"id": "matthew-fishman", "name": "Matthew Fishman", "papers": 2}, {"id": "matthew-p-a-fisher", "name": "Matthew P. A. Fisher", "papers": 4}, {"id": "maurits-tepaske", "name": "Maurits Tepaske", "papers": 1}, {"id": "michael-buchhold", "name": "Michael Buchhold", "papers": 1}, {"id": "michael-gullans", "name": "Michael Gullans", "papers": 8}, {"id": "michael-m-wolf", "name": "Michael M. Wolf", "papers": 3}, {"id": "nick-p-proukakis", "name": "Nick P. Proukakis", "papers": 2}, {"id": "nicolas-laflorencie", "name": "Nicolas Laflorencie", "papers": 2}, {"id": "nicolas-mace", "name": "Nicolas Macé", "papers": 1}, {"id": "norman-y-yao", "name": "Norman Y. Yao", "papers": 10}, {"id": "paolo-comaron", "name": "Paolo Comaron", "papers": 5}, {"id": "pavel-kos", "name": "Pavel Kos", "papers": 1}, {"id": "peter-b-littlewood", "name": "Peter B. Littlewood", "papers": 2}, {"id": "philip-j-d-crowley", "name": "Philip J. D. Crowley", "papers": 4}, {"id": "philip-w-anderson", "name": "Philip W. Anderson", "papers": 1}, {"id": "piotr-sierant", "name": "Piotr Sierant", "papers": 3}, {"id": "rahul-nandkishore", "name": "Rahul Nandkishore", "papers": 4}, {"id": "robert-l-jack", "name": "Robert L. Jack", "papers": 1}, {"id": "robin-schafer", "name": "Robin Schäfer", "papers": 0}, {"id": "roderich-moessner", "name": "Roderich Moessner", "papers": 16}, {"id": "romain-vasseur", "name": "Romain Vasseur", "papers": 10}, {"id": "ronen-vosk", "name": "Ronen Vosk", "papers": 2}, {"id": "sagar-vijay", "name": "Sagar Vijay", "papers": 5}, {"id": "sam-garratt", "name": "Sam Garratt", "papers": 5}, {"id": "sankar-das-sarma", "name": "Sankar Das Sarma", "papers": 1}, {"id": "sara-murciano", "name": "Sara Murciano", "papers": 5}, {"id": "sarang-gopalakrishnan", "name": "Sarang Gopalakrishnan", "papers": 7}, {"id": "saumya-shivam", "name": "Saumya Shivam", "papers": 2}, {"id": "sebastian-diehl", "name": "Sebastian Diehl", "papers": 1}, {"id": "shivaji-l-sondhi", "name": "Shivaji L. Sondhi", "papers": 9}, {"id": "sid-parameswaran", "name": "Sid Parameswaran", "papers": 1}, {"id": "silvia-pappalardi", "name": "Silvia Pappalardi", "papers": 7}, {"id": "soonwon-choi", "name": "Soonwon Choi", "papers": 6}, {"id": "sthitadhi-roy", "name": "Sthitadhi Roy", "papers": 7}, {"id": "tarun-grover", "name": "Tarun Grover", "papers": 5}, {"id": "thomas-guhr", "name": "Thomas Guhr", "papers": 1}, {"id": "thomas-klein-kvorning", "name": "Thomas Klein Kvorning", "papers": 4}, {"id": "tianci-zhou", "name": "Tianci Zhou", "papers": 2}, {"id": "tibor-rakovszky", "name": "Tibor Rakovszky", "papers": 3}, {"id": "tomaz-prosen", "name": "Tomaž Prosen", "papers": 2}, {"id": "tsung-cheng-lu", "name": "Tsung-Cheng Lu", "papers": 3}, {"id": "utkarsh-agrawal", "name": "Utkarsh Agrawal", "papers": 3}, {"id": "vadim-oganesyan", "name": "Vadim Oganesyan", "papers": 1}, {"id": "vedika-khemani", "name": "Vedika Khemani", "papers": 22}, {"id": "wojciech-de-roeck", "name": "Wojciech De Roeck", "papers": 3}, {"id": "xhek-turkeshi", "name": "Xhek Turkeshi", "papers": 4}, {"id": "yevgeny-bar-lev", "name": "Yevgeny Bar Lev", "papers": 4}, {"id": "yi-zhuang-you", "name": "Yi-Zhuang You", "papers": 3}, {"id": "yimu-bao", "name": "Yimu Bao", "papers": 3}, {"id": "zack-weinstein", "name": "Zack Weinstein", "papers": 2}], "edges": [["achilleas-lazarides", "arnab-das", 3], ["achilleas-lazarides", "francesco-piazza", 1], ["achilleas-lazarides", "roderich-moessner", 8], ["achilleas-lazarides", "shivaji-l-sondhi", 2], ["achilleas-lazarides", "sthitadhi-roy", 3], ["achilleas-lazarides", "vedika-khemani", 2], ["achilleas-lazarides", "yevgeny-bar-lev", 2], ["adam-nahum", "brian-skinner", 5], ["adam-nahum", "cheryne-jonay", 1], ["adam-nahum", "david-a-huse", 2], ["adam-nahum", "jeongwan-haah", 2], ["adam-nahum", "jonathan-ruhman", 6], ["adam-nahum", "lorenzo-piroli", 2], ["adam-nahum", "matthew-p-a-fisher", 1], ["adam-nahum", "sagar-vijay", 3], ["adam-nahum", "sthitadhi-roy", 1], ["adam-nahum", "tianci-zhou", 1], ["adam-nahum", "vedika-khemani", 1], ["aidan-zabalo", "andrew-c-potter", 2], ["aidan-zabalo", "david-a-huse", 1], ["aidan-zabalo", "jedediah-h-pixley", 3], ["aidan-zabalo", "justin-h-wilson", 3], ["aidan-zabalo", "michael-gullans", 1], ["aidan-zabalo", "romain-vasseur", 2], ["aidan-zabalo", "sarang-gopalakrishnan", 3], ["aidan-zabalo", "utkarsh-agrawal", 2], ["alan-morningstar", "david-a-huse", 5], ["alan-morningstar", "david-j-luitz", 3], ["alan-morningstar", "luis-colmenarez", 3], ["alan-morningstar", "sarang-gopalakrishnan", 1], ["alan-morningstar", "vedika-khemani", 6], ["alejandro-zamora", "galbadrakh-dagvadorj", 4], ["alejandro-zamora", "iacopo-carusotto", 2], ["alejandro-zamora", "marzena-szymanska", 4], ["alejandro-zamora", "nick-p-proukakis", 2], ["alejandro-zamora", "paolo-comaron", 2], ["alexander-altland", "michael-buchhold", 1], ["alexander-altland", "sebastian-diehl", 1], ["alexander-altland", "silvia-pappalardi", 1], ["amos-chan", "andrea-de-luca", 1], ["amos-chan", "david-a-huse", 2], ["amos-chan", "john-chalker", 3], ["amos-chan", "rahul-nandkishore", 2], ["amos-chan", "saumya-shivam", 2], ["andrea-de-luca", "john-chalker", 1], ["andreas-w-w-ludwig", "andrew-c-potter", 1], ["andreas-w-w-ludwig", "matthew-p-a-fisher", 1], ["andreas-w-w-ludwig", "romain-vasseur", 3], ["andreas-w-w-ludwig", "yi-zhuang-you", 2], ["andrew-c-potter", "david-a-huse", 1], ["andrew-c-potter", "jedediah-h-pixley", 2], ["andrew-c-potter", "justin-h-wilson", 2], ["andrew-c-potter", "norman-y-yao", 1], ["andrew-c-potter", "romain-vasseur", 5], ["andrew-c-potter", "sarang-gopalakrishnan", 3], ["andrew-c-potter", "utkarsh-agrawal", 3], ["andrew-c-potter", "yi-zhuang-you", 1], ["anushya-chandran", "philip-j-d-crowley", 4], ["anushya-chandran", "roderich-moessner", 1], ["anushya-chandran", "vedika-khemani", 2], ["arnab-das", "roderich-moessner", 3], ["arnab-sen", "krishnendu-sengupta", 1], ["arnau-lira-solanilla", "silvia-pappalardi", 1], ["arnau-lira-solanilla", "xhek-turkeshi", 1], ["bijay-kumar-agarwalla", "madhumita-saha", 2], ["brian-skinner", "jonathan-ruhman", 4], ["brian-skinner", "sthitadhi-roy", 1], ["bruno-bertini", "pavel-kos", 1], ["bruno-bertini", "tomaz-prosen", 1], ["calum-a-brown", "katarzyna-macieszczak", 1], ["calum-a-brown", "robert-l-jack", 1], ["cheryne-jonay", "david-a-huse", 1], ["cheryne-jonay", "vedika-khemani", 1], ["claudia-artiaco", "david-aceituno-chavez", 1], ["claudia-artiaco", "jens-h-bardarson", 5], ["claudia-artiaco", "loic-herviou", 2], ["claudia-artiaco", "thomas-klein-kvorning", 4], ["curt-w-von-keyserlingk", "eugene-demler", 1], ["curt-w-von-keyserlingk", "norman-y-yao", 1], ["curt-w-von-keyserlingk", "shivaji-l-sondhi", 1], ["curt-w-von-keyserlingk", "soonwon-choi", 1], ["curt-w-von-keyserlingk", "vedika-khemani", 2], ["david-a-huse", "david-j-luitz", 3], ["david-a-huse", "ehud-altman", 1], ["david-a-huse", "hyungwon-kim", 2], ["david-a-huse", "jedediah-h-pixley", 1], ["david-a-huse", "jonathan-ruhman", 1], ["david-a-huse", "justin-h-wilson", 1], ["david-a-huse", "liangsheng-zhang", 2], ["david-a-huse", "luis-colmenarez", 3], ["david-a-huse", "markus-heyl", 2], ["david-a-huse", "michael-gullans", 5], ["david-a-huse", "rahul-nandkishore", 2], ["david-a-huse", "romain-vasseur", 1], ["david-a-huse", "ronen-vosk", 1], ["david-a-huse", "sarang-gopalakrishnan", 2], ["david-a-huse", "saumya-shivam", 2], ["david-a-huse", "utkarsh-agrawal", 1], ["david-a-huse", "vadim-oganesyan", 1], ["david-a-huse", "vedika-khemani", 6], ["david-aceituno-chavez", "jens-h-bardarson", 1], ["david-aceituno-chavez", "loic-herviou", 1], ["david-aceituno-chavez", "thomas-klein-kvorning", 1], ["david-j-luitz", "dominic-c-rose", 2], ["david-j-luitz", "dominik-hahn", 2], ["david-j-luitz", "fabien-alet", 2], ["david-j-luitz", "jimin-l-li", 3], ["david-j-luitz", "john-chalker", 1], ["david-j-luitz", "juan-p-garrahan", 2], ["david-j-luitz", "luis-colmenarez", 7], ["david-j-luitz", "nicolas-laflorencie", 1], ["david-j-luitz", "roderich-moessner", 1], ["david-j-luitz", "sam-garratt", 1], ["david-j-luitz", "shivaji-l-sondhi", 1], ["david-j-luitz", "sthitadhi-roy", 2], ["david-j-luitz", "tianci-zhou", 1], ["david-j-luitz", "vedika-khemani", 4], ["david-j-luitz", "wojciech-de-roeck", 2], ["david-j-luitz", "yevgeny-bar-lev", 2], ["deepak-dhar", "sthitadhi-roy", 1], ["dibyendu-roy", "tomaz-prosen", 1], ["dominic-c-rose", "igor-lesanovsky", 2], ["dominic-c-rose", "jimin-l-li", 2], ["dominic-c-rose", "juan-p-garrahan", 4], ["dominic-c-rose", "katarzyna-macieszczak", 2], ["dominik-hahn", "john-chalker", 2], ["dominik-hahn", "luis-colmenarez", 1], ["dries-sels", "e-miles-stoudenmire", 2], ["dries-sels", "joey-tindall", 4], ["dries-sels", "matthew-fishman", 2], ["e-miles-stoudenmire", "joey-tindall", 2], ["e-miles-stoudenmire", "matthew-fishman", 2], ["ehud-altman", "ronen-vosk", 2], ["ehud-altman", "sam-garratt", 1], ["ehud-altman", "soonwon-choi", 3], ["ehud-altman", "yimu-bao", 3], ["ehud-altman", "zack-weinstein", 2], ["eugene-demler", "j-ignacio-cirac", 3], ["eugene-demler", "mari-carmen-banuls", 1], ["eugene-demler", "norman-y-yao", 1], ["eugene-demler", "soonwon-choi", 1], ["eugene-demler", "vedika-khemani", 1], ["fabien-alet", "nicolas-laflorencie", 1], ["fabien-alet", "nicolas-mace", 1], ["florian-mintert", "roderich-moessner", 1], ["francesco-piazza", "roderich-moessner", 1], ["francesco-piazza", "sthitadhi-roy", 1], ["frank-pollmann", "jens-h-bardarson", 1], ["frank-pollmann", "roderich-moessner", 1], ["frank-pollmann", "shivaji-l-sondhi", 1], ["frank-wilczek", "norman-y-yao", 1], ["galbadrakh-dagvadorj", "iacopo-carusotto", 2], ["galbadrakh-dagvadorj", "marzena-szymanska", 5], ["galbadrakh-dagvadorj", "nick-p-proukakis", 2], ["galbadrakh-dagvadorj", "paolo-comaron", 3], ["hyungwon-kim", "liangsheng-zhang", 1], ["iacopo-carusotto", "marzena-szymanska", 2], ["iacopo-carusotto", "nick-p-proukakis", 2], ["iacopo-carusotto", "paolo-comaron", 2], ["igor-lesanovsky", "juan-p-garrahan", 2], ["igor-lesanovsky", "katarzyna-macieszczak", 2], ["j-ignacio-cirac", "marcello-dalmonte", 1], ["j-ignacio-cirac", "mari-carmen-banuls", 3], ["j-ignacio-cirac", "michael-m-wolf", 1], ["jedediah-h-pixley", "justin-h-wilson", 3], ["jedediah-h-pixley", "michael-gullans", 1], ["jedediah-h-pixley", "romain-vasseur", 2], ["jedediah-h-pixley", "sarang-gopalakrishnan", 3], ["jedediah-h-pixley", "utkarsh-agrawal", 2], ["jens-h-bardarson", "loic-herviou", 2], ["jens-h-bardarson", "thomas-klein-kvorning", 4], ["jeongwan-haah", "jonathan-ruhman", 1], ["jeongwan-haah", "sagar-vijay", 2], ["jimin-l-li", "juan-p-garrahan", 2], ["joey-tindall", "matthew-fishman", 2], ["john-chalker", "sam-garratt", 3], ["jonathan-keeling", "marzena-szymanska", 2], ["jonathan-keeling", "peter-b-littlewood", 2], ["jonathan-ruhman", "sagar-vijay", 1], ["jonathan-ruhman", "sthitadhi-roy", 1], ["jorge-kurchan", "laura-foini", 3], ["jorge-kurchan", "silvia-pappalardi", 2], ["juan-p-garrahan", "katarzyna-macieszczak", 2], ["justin-h-wilson", "michael-gullans", 1], ["justin-h-wilson", "romain-vasseur", 2], ["justin-h-wilson", "sarang-gopalakrishnan", 3], ["justin-h-wilson", "utkarsh-agrawal", 2], ["katarzyna-macieszczak", "robert-l-jack", 1], ["laura-foini", "silvia-pappalardi", 3], ["liangsheng-zhang", "vedika-khemani", 1], ["loic-herviou", "thomas-klein-kvorning", 2], ["lorenzo-piroli", "sara-murciano", 1], ["luis-colmenarez", "vedika-khemani", 3], ["luis-colmenarez", "wojciech-de-roeck", 1], ["marcello-dalmonte", "mari-carmen-banuls", 1], ["marcello-dalmonte", "xhek-turkeshi", 1], ["marzena-szymanska", "nick-p-proukakis", 2], ["marzena-szymanska", "paolo-comaron", 3], ["marzena-szymanska", "peter-b-littlewood", 2], ["matteo-ippoliti", "roderich-moessner", 1], ["matteo-ippoliti", "shivaji-l-sondhi", 1], ["matteo-ippoliti", "vedika-khemani", 2], ["matthew-p-a-fisher", "romain-vasseur", 1], ["matthew-p-a-fisher", "sagar-vijay", 1], ["matthew-p-a-fisher", "vedika-khemani", 1], ["michael-buchhold", "sebastian-diehl", 1], ["michael-gullans", "sarang-gopalakrishnan", 2], ["nick-p-proukakis", "paolo-comaron", 2], ["norman-y-yao", "soonwon-choi", 1], ["norman-y-yao", "vedika-khemani", 1], ["pavel-kos", "tomaz-prosen", 1], ["philip-j-d-crowley", "vedika-khemani", 1], ["piotr-sierant", "xhek-turkeshi", 2], ["roderich-moessner", "shivaji-l-sondhi", 8], ["roderich-moessner", "sthitadhi-roy", 2], ["roderich-moessner", "vedika-khemani", 6], ["romain-vasseur", "sara-murciano", 2], ["romain-vasseur", "sarang-gopalakrishnan", 3], ["romain-vasseur", "sid-parameswaran", 1], ["romain-vasseur", "utkarsh-agrawal", 3], ["romain-vasseur", "yi-zhuang-you", 2], ["sagar-vijay", "vedika-khemani", 1], ["sagar-vijay", "yi-zhuang-you", 1], ["sam-garratt", "zack-weinstein", 1], ["sarang-gopalakrishnan", "utkarsh-agrawal", 3], ["sarang-gopalakrishnan", "vedika-khemani", 1], ["shivaji-l-sondhi", "vedika-khemani", 6], ["silvia-pappalardi", "xhek-turkeshi", 1], ["soonwon-choi", "vedika-khemani", 1], ["soonwon-choi", "yimu-bao", 3], ["sthitadhi-roy", "yevgeny-bar-lev", 2], ["tarun-grover", "tsung-cheng-lu", 3], ["tibor-rakovszky", "vedika-khemani", 3]], "papers": 347, "built": "2026-11-18"};
+const $=id=>document.getElementById(id);
+const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const NAME=Object.fromEntries(DATA.people.map(p=>[p.id,p.name]));
+const P=Object.fromEntries(DATA.people.map(p=>[p.id,p.papers]));
+const rad=p=>4+3.2*Math.sqrt(p);
+let G=null, sel=null, hideLonely=false, allLabels=false, onlyCluster=false;
+const NB={}; for(const [a,b,w] of DATA.edges){(NB[a]=NB[a]||[]).push([b,w]);(NB[b]=NB[b]||[]).push([a,w]);}
+for(const k in NB) NB[k].sort((x,y)=>y[1]-x[1]);
+const neighbours=id=>NB[id]||[];
+const rm=()=>matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function build(){
+  const prev=G?Object.fromEntries(G.nodes.map(n=>[n.id,n])):{};
+  const nodes=DATA.people.filter(p=>p.papers>0&&(!hideLonely||NB[p.id])).map(p=>{const o=prev[p.id]||{};return {id:p.id,name:p.name,p:p.papers,x:o.x,y:o.y,vx:o.vx,vy:o.vy};});
+  const ids=new Set(nodes.map(n=>n.id));
+  const links=DATA.edges.filter(([a,b])=>ids.has(a)&&ids.has(b)).map(([a,b,w])=>({source:a,target:b,w}));
+  const svg=d3.select("#svg"); svg.selectAll("*").remove();
+  const box=$("stage").getBoundingClientRect(); svg.attr("viewBox",[-box.width/2,-box.height/2,box.width,box.height]);
+  const g=svg.append("g");
+  const link=g.append("g").attr("stroke-linecap","round").selectAll("line").data(links).join("line")
+    .attr("stroke",css("--edge")).attr("stroke-width",d=>0.8+1.6*d.w).attr("stroke-opacity",0.45);
+  const node=g.append("g").selectAll("g").data(nodes,d=>d.id).join("g").attr("class","node");
+  node.append("circle").attr("r",d=>rad(d.p)).attr("fill",css("--node")).attr("stroke",css("--graph-bg")).attr("stroke-width",1.5);
+  node.append("text").attr("dy",d=>-rad(d.p)-4).attr("text-anchor","middle").text(d=>d.name);
+  const sim=d3.forceSimulation(nodes)
+    .force("link",d3.forceLink(links).id(d=>d.id).distance(d=>rad(d.source.p)+rad(d.target.p)+150/Math.sqrt(d.w)).strength(d=>Math.min(0.8,0.15+0.08*d.w)))
+    .force("charge",d3.forceManyBody().strength(d=>-180-60*Math.sqrt(d.p)).distanceMax(600))
+    .force("collide",d3.forceCollide(d=>rad(d.p)+10))
+    .force("x",d3.forceX(0).strength(0.025)).force("y",d3.forceY(0).strength(0.035))
+    .on("tick",()=>{link.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y).attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+                    node.attr("transform",d=>`translate(${d.x},${d.y})`);});
+  const fresh=!Object.keys(prev).length; if(!fresh) sim.alpha(0.5);
+  if(rm()){sim.stop();for(let i=0;i<300;i++)sim.tick();sim.on("tick")();}
+  const zoom=d3.zoom().scaleExtent([0.15,5]).on("zoom",e=>{g.attr("transform",e.transform);if(G){G.k=e.transform.k;labels();}});
+  svg.call(zoom).on("dblclick.zoom",null);
+  svg.on("click",e=>{if(e.target===svg.node())select(null);});
+  node.call(d3.drag()
+    .on("start",(e,d)=>{if(!e.active)sim.alphaTarget(0.25).restart();d.fx=d.x;d.fy=d.y;})
+    .on("drag",(e,d)=>{d.fx=e.x;d.fy=e.y;})
+    .on("end",(e,d)=>{if(!e.active)sim.alphaTarget(0);d.fx=null;d.fy=null;}));
+  node.on("click",(e,d)=>{e.stopPropagation();select(d.id);})
+    .on("mouseenter",tip).on("mousemove",tip).on("mouseleave",()=>{$("tip").hidden=true;});
+  G={sim,node,link,nodes,links,zoom,svg,g,k:1};
+  const k0=fresh?Math.min(1,Math.sqrt(40/Math.max(nodes.length,1))+0.25):d3.zoomTransform(svg.node()).k;
+  svg.call(zoom.transform,fresh?d3.zoomIdentity.scale(k0):d3.zoomTransform(svg.node()));
+  highlight(); panel();
+}
+function labels(){
+  if(!G)return;
+  const nb=sel?new Set([sel,...neighbours(sel).map(x=>x[0])]):null;
+  G.node.select("text").attr("display",d=>nb?(nb.has(d.id)?null:"none"):(allLabels||d.p>=6||(G.k>1.6&&d.p>=2)||G.k>2.6?null:"none"));
+}
+function highlight(){
+  if(!G)return;
+  G.node.select("circle").attr("fill",d=>d.id===sel?css("--node-hi"):css("--node"));
+  if(!sel){G.node.attr("opacity",1).attr("display",null);G.link.attr("display",null).attr("stroke-opacity",0.45).attr("stroke",css("--edge"));labels();return;}
+  const nb=new Set([sel,...neighbours(sel).map(x=>x[0])]);
+  const touches=d=>d.source.id===sel||d.target.id===sel;
+  if(onlyCluster){
+    G.node.attr("display",d=>nb.has(d.id)?null:"none").attr("opacity",1);
+    G.link.attr("display",d=>nb.has(d.source.id)&&nb.has(d.target.id)?null:"none").attr("stroke-opacity",d=>touches(d)?0.9:0.35).attr("stroke",d=>touches(d)?css("--fg"):css("--edge"));
+  } else {
+    G.node.attr("display",null).attr("opacity",d=>nb.has(d.id)?1:0.15);
+    G.link.attr("display",null).attr("stroke-opacity",d=>touches(d)?0.9:0.05).attr("stroke",d=>touches(d)?css("--fg"):css("--edge"));
+  }
+  labels();
+}
+function tip(e,d){
+  const t=$("tip"), s=$("stage").getBoundingClientRect(), nb=neighbours(d.id);
+  t.replaceChildren(Object.assign(document.createElement("b"),{textContent:d.name}),
+    Object.assign(document.createElement("div"),{textContent:`${d.p} paper${d.p===1?"":"s"} on my shelf · ${nb.length} co-author${nb.length===1?"":"s"} here`}));
+  if(nb.length){const m=document.createElement("div");m.style.color="var(--muted)";m.textContent="Most with "+nb.slice(0,3).map(([id,w])=>NAME[id]+" ("+w+")").join(", ");t.append(m);}
+  t.hidden=false;
+  let x=e.clientX-s.left+12,y=e.clientY-s.top+12;
+  if(x+250>s.width)x=e.clientX-s.left-250; if(y+90>s.height)y=e.clientY-s.top-90;
+  t.style.left=Math.max(4,x)+"px"; t.style.top=Math.max(4,y)+"px";
+}
+function panel(){
+  const el=$("panel"); el.replaceChildren();
+  if(!sel){
+    el.append(Object.assign(document.createElement("h3"),{textContent:"Pick someone"}),
+      Object.assign(document.createElement("p"),{className:"meta",textContent:`${G?G.nodes.length:0} people, ${G?G.links.length:0} co-author links.`}),
+      Object.assign(document.createElement("p"),{className:"meta",textContent:"Click a bubble or type a name to see who they wrote with. Drag bubbles, scroll or pinch to zoom, click empty space to clear."}));
+    return;
+  }
+  const nb=neighbours(sel);
+  el.append(Object.assign(document.createElement("h3"),{textContent:NAME[sel]}),
+    Object.assign(document.createElement("p"),{className:"meta",textContent:`${P[sel]} paper${P[sel]===1?"":"s"} on my shelf`}));
+  if(nb.length){
+    el.append(Object.assign(document.createElement("p"),{className:"meta",textContent:"Co-authors here (papers together):"}));
+    const ol=document.createElement("ol");
+    for(const [id,w] of nb){const li=document.createElement("li");const b=document.createElement("button");b.type="button";b.textContent=NAME[id];
+      b.addEventListener("click",()=>centreOn(id));li.append(b,Object.assign(document.createElement("span"),{className:"w",textContent:" "+w}));ol.append(li);}
+    el.append(ol);
+  } else el.append(Object.assign(document.createElement("p"),{className:"meta",textContent:"No co-authored papers with anyone else here."}));
+}
+function select(id){sel=id;highlight();panel();}
+function centreOn(id,tries=0){
+  if(!G)return;
+  const n=G.nodes.find(x=>x.id===id);
+  if(!n){ if(tries===0&&hideLonely){hideLonely=false;$("lonely").setAttribute("aria-pressed","false");build();setTimeout(()=>centreOn(id,1),400);} return; }
+  select(id);
+  const k=Math.max(d3.zoomTransform(G.svg.node()).k,1.3), t=d3.zoomIdentity.scale(k).translate(-n.x,-n.y);
+  (rm()?G.svg:G.svg.transition().duration(600)).call(G.zoom.transform,t);
+}
+function findGo(){
+  const v=$("find").value.trim().toLowerCase(); if(!v)return;
+  const hit=DATA.people.find(p=>p.name.toLowerCase()===v&&p.papers>0)||DATA.people.find(p=>p.name.toLowerCase().includes(v)&&p.papers>0);
+  if(hit) centreOn(hit.id);
+}
+$("names").replaceChildren(...DATA.people.filter(p=>p.papers>0).sort((a,b)=>a.name.localeCompare(b.name)).map(p=>Object.assign(document.createElement("option"),{value:p.name})));
+$("find").addEventListener("change",findGo);
+$("find").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();findGo();}});
+$("only").addEventListener("click",e=>{onlyCluster=!onlyCluster;e.currentTarget.setAttribute("aria-pressed",String(onlyCluster));highlight();});
+$("lonely").addEventListener("click",e=>{hideLonely=!hideLonely;e.currentTarget.setAttribute("aria-pressed",String(hideLonely));if(sel&&!NB[sel])sel=null;build();});
+$("labels").addEventListener("click",e=>{allLabels=!allLabels;e.currentTarget.setAttribute("aria-pressed",String(allLabels));labels();});
+$("reset").addEventListener("click",()=>{if(G)G.svg.transition().duration(300).call(G.zoom.transform,d3.zoomIdentity);select(null);});
+let rsz; addEventListener("resize",()=>{clearTimeout(rsz);rsz=setTimeout(()=>{if(G){const b=$("stage").getBoundingClientRect();G.svg.attr("viewBox",[-b.width/2,-b.height/2,b.width,b.height]);}},150);});
+$("legend").textContent="Bubble size: papers on my shelf · line thickness: papers they wrote together";
+$("foot").textContent=`Snapshot of ${DATA.papers} PDFs, ${DATA.built}. Counted from my own collection, so it says what I read, not who is most important.`;
+if(window.d3) build(); else $("panel").textContent="The graph library did not load. Reload the page.";
+</script>
+
+</body>
+</html>
