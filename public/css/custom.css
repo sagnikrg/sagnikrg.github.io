@@ -1,0 +1,7 @@
+/* Wide layout (Sagnik, 2026-11-18): on large screens the content runs nearly full width,
+   leaving 2.5 inches of white space on the left and right. Smaller screens keep the theme widths. */
+@media (min-width: 1240px) {
+  .container {
+    max-width: calc(100vw - 5in);
+  }
+}
