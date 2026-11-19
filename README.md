@@ -25,9 +25,9 @@ I am presently working as a Doctoral Student with [Dr. David Luitz](https://dlui
 
 The physicists whose papers fill my bookshelf, and who wrote with whom. Bubble size is the number of their papers in my collection, line thickness the number of papers the two wrote together. Click a bubble or type a name to explore ([open full screen](https://sagnikrg.github.io/connected-authors/)).
 
-<iframe class="ca-embed" src="https://sagnikrg.github.io/connected-authors/embed.html?v=2026-11-19b" title="Connected Authors: Sagnik Edition" scrolling="no" loading="lazy"></iframe>
+<iframe class="ca-embed" src="https://sagnikrg.github.io/connected-authors/embed.html?v=2026-11-19c" title="Connected Authors: Sagnik Edition" scrolling="no" loading="lazy"></iframe>
 
-<sub>126 people with papers, 243 co-author links, from 358 PDFs (built 2026-11-19). Click a bubble to see their co-authors and papers, click a line for the papers two people share. Darker means more recent. Drag bubbles, scroll or pinch to zoom, click empty space to clear.</sub>
+<sub>126 people with papers, 248 co-author links, from 350 PDFs (built 2026-11-19). Click a bubble to see their co-authors and papers, click a line for the papers two people share. Darker means more recent. Drag bubbles, scroll or pinch to zoom, click empty space to clear.</sub>
 
 
 I mainly work in Condendesed Matter Physics, Quantum Information and Field Theories with a keen interest in Mathematical/Formalism Aspects. 
